@@ -1,0 +1,2222 @@
+Village,Period,start,end
+DebreGenet,land preparation,05-02,06-14
+DebreGenet,planting,06-28,07-02
+DebreGenet,flowering,08-16,08-24
+DebreGenet,tasseling/seed filling,08-24,09-11
+DebreGenet,harvesting,10-14,11-12
+Hadnet,land preparation,03-02,05-28
+Hadnet,planting,06-13,07-16
+Hadnet,flowering,08-20,09-12
+Hadnet,tasseling/seed filling,08-30,09-21
+Hadnet,harvesting,09-15,11-30
+Aynalem,land preparation,03-01,05-30
+Aynalem,planting,06-25,08-30
+Aynalem,flowering,08-10,09-15
+Aynalem,tasseling/seed filling,08-16,09-25
+Aynalem,harvesting,10-15,11-30
+Bethans,land preparation,01-15,06-30
+Bethans,planting,06-25,07-15
+Bethans,flowering,08-08,08-30
+Bethans,tasseling/seed filling,08-16,09-05
+Bethans,harvesting,10-01,11-30
+BarkaAdiswha,land preparation,05-10,06-20
+BarkaAdiswha,planting,06-25,07-15
+BarkaAdiswha,flowering,08-15,09-18
+BarkaAdiswha,tasseling/seed filling,08-22,09-30
+BarkaAdiswha,harvesting,11-05,12-25
+RubaFelege,land preparation,04-15,06-15
+RubaFelege,planting,06-25,07-10
+RubaFelege,flowering,08-15,09-15
+RubaFelege,tasseling/seed filling,08-22,09-27
+Edagaarbi,land preparation,12-13,06-23
+Edagaarbi,planting,07-03,07-16
+Edagaarbi,flowering,08-28,09-13
+Edagaarbi,tasseling/seed filling,09-30,10-13
+Edagaarbi,harvesting,10-28,11-12
+Edagaarbi,land preparation,12-13,06-18
+Edagaarbi,planting,06-28,07-12
+Edagaarbi,flowering,08-24,09-08
+Edagaarbi,tasseling/seed filling,09-28,10-12
+Edagaarbi,harvesting,10-17,11-07
+Simret-1,land preparation,01-10,06-22
+Simret-1,planting,06-25,07-17
+Simret-1,flowering,08-22,09-25
+Simret-1,tasseling/seed filling,09-25,10-11
+Simret-1,harvesting,10-27,11-26
+Simret-1,land preparation,01-10,04-08
+Simret-1,planting,05-01,05-31
+Simret-1,flowering,08-07,09-06
+Simret-1,tasseling/seed filling,09-16,11-10
+Simret-1,harvesting,11-16,12-10
+Simret-1,land preparation,01-10,06-07
+Simret-1,planting,06-08,07-07
+Simret-1,flowering,08-21,09-05
+Simret-1,tasseling/seed filling,09-16,10-11
+Simret-1,harvesting,10-12,11-10
+Simret,land preparation,12-14,02-07
+Simret,planting,06-07,06-23
+Simret,flowering,07-23,08-06
+Simret,tasseling/seed filling,08-06,08-30
+Simret,harvesting,10-12,10-27
+Simret,land preparation,12-14,02-07
+Simret,planting,05-09,07-07
+Simret,flowering,08-22,09-28
+Simret,tasseling/seed filling,09-05,10-27
+Simret,harvesting,11-11,11-29
+Emba-Ahfrom,land preparation,01-08,07-06
+Emba-Ahfrom,planting,07-11,07-18
+Emba-Ahfrom,flowering,09-03,09-24
+Emba-Ahfrom,tasseling/seed filling,10-08,10-23
+Emba-Ahfrom,harvesting,11-06,11-08
+Emba-Ahfrom,land preparation,03-08,06-13
+Emba-Ahfrom,planting,06-26,07-08
+Emba-Ahfrom,flowering,08-24,09-03
+Emba-Ahfrom,tasseling/seed filling,09-18,10-08
+Emba-Ahfrom,harvesting,10-23,11-08
+Jijqe,land preparation,01-25,03-09
+Jijqe,planting,05-22,06-19
+Jijqe,flowering,08-01,08-22
+Jijqe,tasseling/seed filling,08-24,09-27
+Jijqe,harvesting,10-11,11-09
+Jijqe,land preparation,05-23,06-07
+Jijqe,planting,06-08,07-07
+Jijqe,flowering,08-22,09-16
+Jijqe,tasseling/seed filling,09-27,10-26
+Jijqe,harvesting,11-08,12-01
+Sefo,land preparation,01-09,06-28
+Sefo,planting,07-09,07-20
+Sefo,flowering,08-23,09-18
+Sefo,tasseling/seed filling,09-29,10-13
+Sefo,harvesting,10-28,11-13
+Sefo,land preparation,01-09,06-09
+Sefo,planting,06-21,07-08
+Sefo,flowering,08-30,09-23
+Sefo,tasseling/seed filling,10-12,10-27
+Sefo,harvesting,11-07,11-19
+Laelayhahaile,land preparation,01-09,07-06
+Laelayhahaile,planting,07-08,07-13
+Laelayhahaile,flowering,08-29,09-13
+Laelayhahaile,tasseling/seed filling,09-26,10-23
+Laelayhahaile,harvesting,11-08,11-20
+Laelayhahaile,land preparation,01-09,06-08
+Laelayhahaile,planting,06-23,07-08
+Laelayhahaile,flowering,08-23,09-13
+Laelayhahaile,tasseling/seed filling,09-27,10-13
+Laelayhahaile,harvesting,10-27,11-13
+Kudo,land preparation,01-08,04-23
+Kudo,planting,04-30,05-20
+Kudo,flowering,08-23,09-13
+Kudo,tasseling/seed filling,09-23,10-13
+Kudo,harvesting,10-27,11-12
+Kudo,land preparation,01-08,06-08
+Kudo,planting,06-05,07-08
+Kudo,flowering,08-24,09-08
+Kudo,tasseling/seed filling,09-25,10-13
+Kudo,harvesting,10-28,11-20
+Endamariam,land preparation,01-09,07-11
+Endamariam,planting,06-26,07-20
+Endamariam,flowering,09-09,09-27
+Endamariam,tasseling/seed filling,09-10,10-15
+Endamariam,harvesting,10-30,11-19
+Endamariam,land preparation,01-09,04-08
+Endamariam,planting,05-14,05-28
+Endamariam,flowering,08-24,09-08
+Endamariam,tasseling/seed filling,10-22,11-12
+Endamariam,harvesting,11-24,12-03
+Endamariam,land preparation,01-24,06-23
+Endamariam,planting,06-26,07-13
+Endamariam,flowering,08-23,11-28
+Endamariam,tasseling/seed filling,09-28,10-12
+Endamariam,harvesting,10-26,11-11
+Mezbr,land preparation,03-08,07-03
+Mezbr,planting,07-06,07-23
+Mezbr,flowering,08-24,09-08
+Mezbr,tasseling/seed filling,09-22,09-30
+Mezbr,harvesting,10-28,11-12
+Mezbr,land preparation,01-08,04-08
+Mezbr,planting,05-03,05-23
+Mezbr,flowering,08-24,09-17
+Mezbr,tasseling/seed filling,10-01,10-29
+Mezbr,harvesting,11-25,12-04
+TahtayDaeroka,land preparation,01-02,06-14
+TahtayDaeroka,planting,06-14,07-09
+TahtayDaeroka,flowering,08-24,09-14
+TahtayDaeroka,tasseling/seed filling,08-30,09-05
+TahtayDaeroka,harvesting,10-14,10-26
+Nefasit,land preparation,06-08,07-07
+Nefasit,planting,07-08,07-27
+Nefasit,flowering,09-11,09-27
+Nefasit,tasseling/seed filling,09-28,10-10
+Nefasit,harvesting,10-25,11-30
+Nefasit,land preparation,03-26,05-26
+Nefasit,planting,05-28,06-13
+Nefasit,flowering,08-03,08-22
+Nefasit,tasseling/seed filling,08-23,09-22
+Nefasit,harvesting,10-27,11-10
+Nefasit,land preparation,04-15,06-07
+Nefasit,planting,04-15,06-07
+Nefasit,flowering,08-22,09-05
+Nefasit,tasseling/seed filling,09-11,10-10
+Nefasit,harvesting,10-24,11-29
+Nebarhadinet,land preparation,06-07,07-13
+Nebarhadinet,planting,07-19,08-06
+Nebarhadinet,flowering,08-26,09-12
+Nebarhadinet,tasseling/seed filling,09-05,09-16
+Nebarhadinet,harvesting,10-10,11-13
+Nebarhadinet,land preparation,03-10,04-24
+Nebarhadinet,planting,05-09,06-22
+Nebarhadinet,flowering,08-21,08-31
+Nebarhadinet,tasseling/seed filling,08-31,09-05
+Nebarhadinet,harvesting,10-30,11-29
+Mesehle,land preparation,03-17,06-26
+Mesehle,planting,06-27,07-30
+Mesehle,flowering,08-26,09-11
+Mesehle,tasseling/seed filling,09-18,10-06
+Mesehle,harvesting,10-17,11-26
+Mesehle,land preparation,03-11,06-24
+Mesehle,planting,03-11,05-08
+Mesehle,flowering,06-12,08-24
+Mesehle,tasseling/seed filling,05-13,06-24
+Mesehle,harvesting,09-30,11-08
+Mesehle,land preparation,03-11,04-09
+Mesehle,planting,04-10,05-07
+Mesehle,flowering,08-22,08-10
+Mesehle,harvesting,09-11,10-05
+Gijet,land preparation,05-23,07-11
+Gijet,planting,07-08,07-27
+Gijet,flowering,08-22,09-05
+Gijet,tasseling/seed filling,09-03,09-18
+Gijet,harvesting,10-27,11-26
+Gijet,land preparation,05-09,06-22
+Gijet,planting,06-27,07-12
+Gijet,flowering,08-22,09-05
+Gijet,tasseling/seed filling,09-05,09-22
+Gijet,harvesting,10-16,11-25
+Adekiney,land preparation,01-08,06-08
+Adekiney,planting,07-07,05-25
+Adekiney,flowering,08-23,09-12
+Adekiney,tasseling/seed filling,09-13,11-09
+Adekiney,harvesting,11-23,11-30
+Adekiney,land preparation,01-08,03-11
+Adekiney,planting,06-08,07-08
+Adekiney,flowering,08-24,09-11
+Adekiney,tasseling/seed filling,09-11,10-11
+Adekiney,harvesting,10-12,11-06
+Adekiney,land preparation,01-08,06-07
+Adekiney,planting,06-23,07-11
+Adekiney,flowering,08-17,09-11
+Adekiney,tasseling/seed filling,09-12,10-10
+Adekiney,harvesting,10-12,11-10
+Mearey,land preparation,05-01,06-30
+Mearey,planting,06-01,06-30
+Mearey,flowering,07-31,09-11
+Mearey,tasseling/seed filling,08-05,09-12
+Mearey,harvesting,11-14,12-16
+Hintsa,land preparation,06-08,07-12
+Hintsa,planting,07-13,08-03
+Hintsa,flowering,08-12,09-06
+Hintsa,tasseling/seed filling,08-23,09-16
+Hintsa,harvesting,10-26,11-22
+Hintsa,land preparation,03-10,05-23
+Hintsa,planting,05-09,06-22
+Hintsa,flowering,08-07,09-12
+Hintsa,tasseling/seed filling,08-22,09-27
+Hintsa,harvesting,11-20,12-10
+Adishimbirkti,land preparation,12-14,06-07
+Adishimbirkti,planting,07-01,07-14
+Adishimbirkti,flowering,09-01,09-13
+Adishimbirkti,tasseling/seed filling,10-01,10-16
+Adishimbirkti,harvesting,11-05,12-05
+Zata,land preparation,12-15,04-07
+Zata,planting,06-28,07-02
+Zata,flowering,08-22,09-12
+Zata,tasseling/seed filling,09-16,09-26
+Zata,harvesting,11-08,12-02
+Fala,land preparation,01-12,06-07
+Fala,planting,07-01,07-22
+Fala,flowering,09-07,09-21
+Fala,tasseling/seed filling,10-12,10-27
+Fala,harvesting,11-09,12-05
+Tsetsera,land preparation,12-09,05-14
+Tsetsera,planting,06-30,07-12
+Tsetsera,flowering,08-22,09-12
+Tsetsera,tasseling/seed filling,09-17,09-28
+Tsetsera,harvesting,10-18,11-30
+Sorya,land preparation,12-16,03-30
+Sorya,planting,07-10,07-18
+Sorya,flowering,09-10,10-05
+Sorya,tasseling/seed filling,10-10,10-16
+Sorya,harvesting,10-30,11-30
+MayTeklia,land preparation,09-15,09-23
+MayTeklia,planting,06-15,09-30
+MayTeklia,flowering,08-23,09-24
+MayTeklia,tasseling/seed filling,09-16,09-27
+MayTeklia,harvesting,10-15,11-17
+Bilb Wuha,land preparation,12-11,05-01
+Bilb Wuha,planting,06-02,06-23
+Bilb Wuha,flowering,10-05,09-27
+Bilb Wuha,tasseling/seed filling,09-27,11-10
+Bilb Wuha,harvesting,11-11,12-10
+HadeAlga,land preparation,04-09,07-07
+HadeAlga,planting,07-13,08-16
+HadeAlga,flowering,10-21,09-21
+HadeAlga,tasseling/seed filling,08-26,09-27
+HadeAlga,harvesting,10-10,11-20
+HadeAlga,land preparation,01-19,04-20
+HadeAlga,planting,04-28,05-28
+HadeAlga,flowering,08-16,09-21
+HadeAlga,tasseling/seed filling,08-22,09-27
+HadeAlga,harvesting,10-30,12-15
+Berkutae,land preparation,03-10,07-07
+Berkutae,planting,07-08,08-06
+Berkutae,flowering,09-16,09-27
+Berkutae,tasseling/seed filling,09-27,10-16
+Berkutae,harvesting,11-10,12-10
+Berkutae,land preparation,03-10,05-09
+Berkutae,planting,05-09,06-08
+Berkutae,flowering,08-07,09-21
+Berkutae,tasseling/seed filling,08-21,09-26
+Berkutae,harvesting,10-12,10-26
+Tara gedam,land preparation,03-10,07-07
+Tara gedam,planting,07-08,07-27
+Tara gedam,flowering,09-12,10-11
+Tara gedam,tasseling/seed filling,10-16,11-25
+Tara gedam,harvesting,11-25,12-10
+Tara gedam,land preparation,03-10,05-08
+Tara gedam,planting,05-09,05-28
+Tara gedam,flowering,08-15,09-05
+Tara gedam,tasseling/seed filling,09-27,10-12
+Tara gedam,harvesting,11-11,11-25
+Simret,land preparation,01-10,06-17
+Simret,planting,07-09,07-22
+Simret,flowering,09-05,09-24
+Simret,tasseling/seed filling,09-24,10-15
+Simret,harvesting,11-19,12-19
+AmdiWeyane,land preparation,02-08,06-07
+AmdiWeyane,planting,07-05,08-01
+AmdiWeyane,flowering,08-18,09-16
+AmdiWeyane,tasseling/seed filling,09-30,10-26
+AmdiWeyane,harvesting,11-09,12-18
+AmdiWeyane,land preparation,09-22,06-08
+AmdiWeyane,planting,07-01,07-25
+AmdiWeyane,flowering,08-24,09-16
+AmdiWeyane,tasseling/seed filling,08-28,10-05
+AmdiWeyane,harvesting,10-05,11-30
+Mechare,land preparation,03-24,07-22
+Mechare,planting,07-13,08-11
+Mechare,flowering,08-26,09-04
+Mechare,tasseling/seed filling,09-06,09-12
+Mechare,harvesting,10-21,12-03
+Mechare,land preparation,01-15,03-24
+Mechare,planting,04-09,06-08
+Mechare,flowering,08-16,09-21
+Mechare,tasseling/seed filling,08-22,09-27
+Mechare,harvesting,10-30,12-11
+Gerjale,land preparation,02-09,04-09
+Gerjale,planting,07-22,08-22
+Gerjale,flowering,09-02,09-21
+Gerjale,tasseling/seed filling,09-07,09-26
+Gerjale,harvesting,10-30,11-20
+Gerjale,land preparation,02-08,07-07
+Gerjale,planting,04-20,06-08
+Gerjale,flowering,09-04,09-21
+Gerjale,tasseling/seed filling,09-12,09-28
+Gerjale,harvesting,11-20,12-18
+Tekleweyni,land preparation,01-09,03-09
+Tekleweyni,planting,05-09,07-07
+Tekleweyni,flowering,08-21,09-10
+Tekleweyni,tasseling/seed filling,08-27,09-28
+Tekleweyni,harvesting,11-07,12-10
+Siye,land preparation,12-22,01-23
+Siye,planting,05-09,06-22
+Siye,flowering,08-21,09-10
+Siye,tasseling/seed filling,08-26,09-28
+Siye,harvesting,11-14,12-10
+Tseykeme,land preparation,01-08,03-09
+Tseykeme,planting,05-24,06-12
+Tseykeme,flowering,08-22,09-05
+Tseykeme,tasseling/seed filling,09-06,09-27
+Tseykeme,harvesting,10-21,11-10
+Negedebrhan,land preparation,01-22,02-22
+Negedebrhan,planting,05-09,06-12
+Negedebrhan,flowering,08-07,09-05
+Negedebrhan,tasseling/seed filling,08-21,09-06
+Negedebrhan,harvesting,11-03,11-22
+Grwre,land preparation,01-02,02-07
+Grwre,planting,05-09,01-27
+Grwre,flowering,08-21,09-21
+Grwre,tasseling/seed filling,09-22,09-28
+Grwre,harvesting,11-11,12-10
+Limat,land preparation,01-10,04-08
+Limat,planting,05-09,05-29
+Limat,flowering,07-07,08-13
+Limat,tasseling/seed filling,08-14,08-22
+Limat,harvesting,10-11,11-22
+Jira,land preparation,04-09,07-03
+Jira,planting,07-06,07-20
+Jira,flowering,09-02,09-16
+Jira,tasseling/seed filling,09-20,10-06
+Jira,harvesting,10-23,11-20
+Adreb,land preparation,01-09,05-08
+Adreb,planting,05-16,05-23
+Adreb,flowering,08-30,09-12
+Adreb,tasseling/seed filling,09-26,10-24
+Adreb,harvesting,11-19,11-29
+Ksad-acki,land preparation,01-09,05-06
+Ksad-acki,planting,05-08,05-22
+Ksad-acki,flowering,08-24,09-12
+Ksad-acki,tasseling/seed filling,09-27,10-30
+Ksad-acki,harvesting,12-16,11-25
+Seka,land preparation,03-24,07-04
+Seka,planting,07-06,07-20
+Seka,flowering,09-04,09-09
+Seka,tasseling/seed filling,09-16,10-11
+Seka,harvesting,10-22,11-08
+Lalaylogomti,land preparation,03-13,07-06
+Lalaylogomti,planting,07-12,07-20
+Lalaylogomti,flowering,09-03,09-16
+Lalaylogomti,tasseling/seed filling,09-23,10-10
+Lalaylogomti,harvesting,10-24,11-14
+Woyenti,land preparation,03-09,06-11
+Woyenti,planting,06-24,07-26
+Woyenti,flowering,08-28,09-11
+Woyenti,tasseling/seed filling,09-16,10-02
+Woyenti,harvesting,10-25,11-14
+Adi selam,land preparation,01-09,06-18
+Adi selam,planting,06-25,07-12
+Adi selam,flowering,08-28,09-08
+Adi selam,tasseling/seed filling,09-24,10-08
+Adi selam,harvesting,10-23,11-28
+Endabano,land preparation,04-16,06-15
+Endabano,planting,06-03,06-23
+Endabano,flowering,08-10,09-16
+Endabano,tasseling/seed filling,08-21,09-21
+Endabano,harvesting,09-26,10-15
+Endabano,land preparation,04-15,06-16
+Endabano,planting,06-01,06-14
+Endabano,flowering,08-15,09-18
+Endabano,tasseling/seed filling,08-21,09-22
+Endabano,harvesting,10-05,11-15
+Lemlem,land preparation,04-30,06-15
+Lemlem,planting,05-31,06-30
+Lemlem,flowering,08-31,09-10
+Lemlem,tasseling/seed filling,10-05,09-15
+Lemlem,harvesting,11-15,11-30
+LaelayDayu,land preparation,02-01,06-30
+LaelayDayu,planting,06-25,08-21
+LaelayDayu,flowering,09-05,09-25
+LaelayDayu,tasseling/seed filling,09-12,10-10
+LaelayDayu,harvesting,10-24,12-15
+LaelayDayu,land preparation,01-21,04-06
+LaelayDayu,planting,02-20,05-08
+LaelayDayu,flowering,08-31,09-15
+LaelayDayu,tasseling/seed filling,09-05,09-30
+RubaFelege,land preparation,03-17,05-25
+RubaFelege,planting,06-08,06-28
+RubaFelege,flowering,08-22,09-08
+RubaFelege,tasseling/seed filling,09-25,10-12
+RubaFelege,harvesting,11-20,12-15
+Mechare,land preparation,03-22,07-15
+Mechare,planting,07-15,07-27
+Mechare,flowering,09-15,10-07
+Mechare,tasseling/seed filling,10-23,12-15
+Mechare,harvesting,11-20,12-30
+GetskiMilesiley,land preparation,01-01,04-30
+GetskiMilesiley,planting,05-01,05-16
+GetskiMilesiley,tasseling/seed filling,08-09,09-16
+GetskiMilesiley,harvesting,10-01,11-01
+Endagahamus,land preparation,03-01,06-10
+Endagahamus,planting,06-25,07-15
+Endagahamus,flowering,08-10,09-05
+Endagahamus,tasseling/seed filling,08-15,09-10
+Endagahamus,harvesting,10-08,11-10
+AdisAlem,land preparation,02-15,06-25
+AdisAlem,planting,07-03,07-28
+AdisAlem,flowering,08-21,08-30
+AdisAlem,tasseling/seed filling,08-26,09-10
+AdisAlem,harvesting,09-28,12-06
+Wuhdet,land preparation,03-10,06-07
+Wuhdet,planting,06-24,07-17
+Wuhdet,flowering,09-05,09-21
+Wuhdet,tasseling/seed filling,10-01,10-11
+Wuhdet,harvesting,10-29,11-10
+Wuhdet,land preparation,01-14,06-07
+Wuhdet,planting,06-22,06-28
+Wuhdet,flowering,08-22,09-05
+Wuhdet,tasseling/seed filling,09-15,09-30
+Wuhdet,harvesting,10-21,11-10
+Wuhdet,land preparation,03-10,05-08
+Wuhdet,planting,05-09,06-17
+Wuhdet,flowering,08-22,09-26
+Wuhdet,tasseling/seed filling,10-11,10-21
+Wuhdet,harvesting,10-26,11-10
+Agid,land preparation,03-10,07-07
+Agid,planting,07-08,08-06
+Agid,flowering,09-12,09-26
+Agid,tasseling/seed filling,09-27,10-31
+Agid,harvesting,11-10,12-09
+Agid,land preparation,03-10,05-09
+Agid,planting,05-09,06-01
+Agid,flowering,08-18,08-24
+Agid,tasseling/seed filling,09-06,09-26
+Agid,harvesting,10-26,11-09
+Birkutea,land preparation,04-15,11-13
+Birkutea,planting,11-13,12-13
+Birkutea,flowering,01-15,11-13
+Birkutea,tasseling/seed filling,11-13,11-13
+Birkutea,harvesting,11-13,11-13
+Birkutea,land preparation,11-13,11-13
+Birkutea,planting,11-13,11-13
+Birkutea,flowering,11-13,11-13
+Birkutea,tasseling/seed filling,11-13,11-13
+Birkutea,harvesting,11-13,11-13
+Birkutea,land preparation,03-10,07-07
+Birkutea,planting,07-08,08-06
+Birkutea,flowering,09-20,09-30
+Birkutea,tasseling/seed filling,09-30,10-10
+Birkutea,harvesting,10-22,12-09
+Birkutea,land preparation,03-10,05-05
+Birkutea,planting,05-09,05-28
+Birkutea,flowering,07-28,08-11
+Birkutea,tasseling/seed filling,08-21,09-22
+Birkutea,harvesting,10-11,11-09
+Ginaza,land preparation,03-10,07-07
+Ginaza,planting,07-08,08-06
+Ginaza,flowering,09-11,09-26
+Ginaza,tasseling/seed filling,09-27,10-31
+Ginaza,harvesting,11-10,12-09
+Ginaza,land preparation,03-10,05-09
+Ginaza,planting,05-09,06-01
+Ginaza,flowering,08-18,08-24
+Ginaza,tasseling/seed filling,09-06,09-26
+Ginaza,harvesting,10-26,11-09
+Birkutea,land preparation,03-10,07-23
+Birkutea,planting,07-08,08-06
+Birkutea,flowering,09-05,09-27
+Birkutea,tasseling/seed filling,09-28,10-10
+Birkutea,harvesting,11-14,12-09
+Birkutea,land preparation,03-10,05-08
+Birkutea,planting,05-15,06-17
+Birkutea,flowering,08-06,09-05
+Birkutea,tasseling/seed filling,08-22,09-25
+Birkutea,harvesting,10-25,11-09
+Birkutea,land preparation,03-10,05-24
+Birkutea,planting,05-18,06-19
+Birkutea,flowering,08-24,09-15
+Birkutea,tasseling/seed filling,09-17,10-10
+Birkutea,harvesting,10-26,11-24
+Ginaza,land preparation,03-10,07-08
+Ginaza,planting,07-11,07-23
+Ginaza,flowering,09-12,10-09
+Ginaza,tasseling/seed filling,10-12,10-27
+Ginaza,harvesting,11-11,12-05
+Ginaza,land preparation,03-10,05-08
+Ginaza,planting,05-09,05-28
+Ginaza,flowering,08-22,09-12
+Ginaza,tasseling/seed filling,09-21,10-11
+Ginaza,harvesting,10-27,11-10
+Ginaza,land preparation,11-14,11-14
+Ginaza,planting,11-14,11-14
+Ginaza,flowering,11-14,11-14
+Ginaza,tasseling/seed filling,11-14,11-14
+Ginaza,harvesting,11-14,11-14
+Ginaza,land preparation,11-14,11-14
+Ginaza,planting,11-14,11-14
+Ginaza,flowering,11-14,11-14
+Ginaza,tasseling/seed filling,11-14,11-14
+Ginaza,harvesting,11-14,11-14
+Ginaza,land preparation,11-14,11-14
+Adibearj,land preparation,03-24,07-07
+Adibearj,planting,07-08,07-27
+Adibearj,flowering,09-06,09-27
+Adibearj,tasseling/seed filling,10-10,11-10
+Adibearj,harvesting,10-11,12-01
+Adibearj,land preparation,03-01,03-11
+Adibearj,planting,05-11,06-07
+Adibearj,flowering,08-06,08-22
+Adibearj,tasseling/seed filling,08-23,09-27
+Adibearj,harvesting,10-12,10-31
+Adibearj,land preparation,03-10,05-11
+Adibearj,planting,03-12,06-30
+Adibearj,flowering,08-07,09-05
+Adibearj,tasseling/seed filling,09-12,10-12
+Adibearj,harvesting,10-25,11-10
+Hadashtekli,land preparation,01-09,04-08
+Hadashtekli,planting,05-24,07-05
+Hadashtekli,flowering,08-24,09-09
+Hadashtekli,tasseling/seed filling,09-13,10-08
+Hadashtekli,harvesting,10-23,11-23
+Hadashtekli,land preparation,01-09,04-08
+Hadashtekli,planting,05-23,07-13
+Hadashtekli,flowering,08-24,09-13
+Hadashtekli,tasseling/seed filling,09-24,10-20
+Hadashtekli,harvesting,11-08,12-08
+Tsae,land preparation,03-10,06-22
+Tsae,planting,07-03,07-22
+Tsae,flowering,09-02,09-10
+Tsae,tasseling/seed filling,09-12,09-27
+Tsae,harvesting,10-12,10-26
+Tsae,land preparation,03-10,05-13
+Tsae,planting,05-23,06-12
+Tsae,flowering,08-07,08-21
+Tsae,tasseling/seed filling,09-06,09-26
+Tsae,harvesting,10-07,10-16
+Tsae,land preparation,03-10,05-13
+Tsae,planting,05-23,06-12
+Tsae,flowering,08-07,08-21
+Tsae,tasseling/seed filling,09-06,09-26
+Tsae,harvesting,11-08,11-25
+Enda-Felasi,land preparation,01-09,06-30
+Enda-Felasi,planting,07-05,07-25
+Enda-Felasi,flowering,08-24,09-10
+Enda-Felasi,tasseling/seed filling,09-12,09-26
+Enda-Felasi,harvesting,10-09,11-11
+Enda-Felasi,land preparation,01-09,05-08
+Enda-Felasi,planting,05-23,06-22
+Enda-Felasi,flowering,08-18,08-26
+Enda-Felasi,tasseling/seed filling,09-06,09-28
+Enda-Felasi,harvesting,10-01,10-21
+Enda-Felasi,land preparation,01-09,03-24
+Enda-Felasi,planting,04-09,01-08
+Enda-Felasi,flowering,08-22,09-12
+Enda-Felasi,tasseling/seed filling,09-16,10-26
+Enda-Felasi,harvesting,11-11,11-25
+Amedwuha,land preparation,01-10,05-08
+Amedwuha,planting,05-10,06-23
+Amedwuha,flowering,08-22,09-12
+Amedwuha,tasseling/seed filling,10-08,11-15
+Amedwuha,harvesting,11-25,12-20
+Amedwuha,land preparation,01-10,06-21
+Amedwuha,planting,07-02,07-18
+Amedwuha,flowering,08-26,09-12
+Amedwuha,tasseling/seed filling,09-30,10-24
+Amedwuha,harvesting,11-02,11-29
+Ayba,land preparation,01-10,06-07
+Ayba,planting,07-05,07-17
+Ayba,flowering,08-22,09-11
+Ayba,tasseling/seed filling,09-27,10-25
+Ayba,harvesting,11-10,12-10
+Ayba,land preparation,03-10,06-07
+Ayba,planting,06-11,07-07
+Ayba,flowering,08-22,09-11
+Ayba,tasseling/seed filling,09-27,10-25
+Ayba,harvesting,10-26,11-17
+Kuluferha,land preparation,03-09,05-08
+Kuluferha,planting,05-11,06-17
+Kuluferha,flowering,07-24,08-24
+Kuluferha,tasseling/seed filling,08-25,09-30
+Kuluferha,harvesting,10-30,11-20
+Kuluferha,land preparation,05-24,07-04
+Kuluferha,planting,07-06,07-28
+Kuluferha,flowering,08-23,09-12
+Kuluferha,tasseling/seed filling,09-14,10-01
+Kuluferha,harvesting,10-26,11-30
+Kuluferha,land preparation,03-10,05-09
+Kuluferha,planting,05-11,06-13
+Kuluferha,flowering,08-23,09-06
+Kuluferha,tasseling/seed filling,09-12,09-27
+Kuluferha,harvesting,10-24,11-11
+Lemlem Arena,land preparation,06-08,07-22
+Lemlem Arena,planting,07-23,08-06
+Lemlem Arena,flowering,08-22,09-05
+Lemlem Arena,tasseling/seed filling,09-12,09-26
+Lemlem Arena,harvesting,10-19,11-11
+Lemlem Arena,land preparation,03-10,04-23
+Lemlem Arena,planting,04-24,06-22
+Lemlem Arena,flowering,08-03,09-12
+Lemlem Arena,tasseling/seed filling,08-22,09-26
+Lemlem Arena,harvesting,11-18,11-30
+Dekera,land preparation,06-08,07-12
+Dekera,planting,07-18,08-04
+Dekera,flowering,08-22,09-05
+Dekera,tasseling/seed filling,09-01,09-22
+Dekera,harvesting,10-25,11-12
+Dekera,land preparation,04-09,05-08
+Dekera,planting,05-09,06-17
+Dekera,flowering,08-16,09-12
+Dekera,tasseling/seed filling,08-22,09-18
+Dekera,harvesting,11-22,12-03
+Werabaye,land preparation,03-10,07-08
+Werabaye,planting,07-22,08-06
+Werabaye,flowering,08-21,09-05
+Werabaye,tasseling/seed filling,09-07,09-26
+Werabaye,harvesting,10-11,11-10
+Werabaye,land preparation,03-10,04-23
+Werabaye,planting,04-28,05-18
+Werabaye,flowering,08-22,09-05
+Werabaye,tasseling/seed filling,09-11,09-26
+Werabaye,harvesting,11-24,12-24
+Erba,land preparation,02-09,07-17
+Erba,planting,07-22,08-16
+Erba,flowering,09-05,09-26
+Erba,tasseling/seed filling,09-29,10-11
+Erba,harvesting,11-20,11-25
+Erba,land preparation,02-09,04-08
+Erba,planting,04-09,05-24
+Erba,flowering,08-22,09-05
+Erba,tasseling/seed filling,09-11,09-26
+Erba,harvesting,12-10,01-08
+Meswaeti,land preparation,12-25,07-18
+Meswaeti,planting,07-23,08-01
+Meswaeti,flowering,09-11,09-27
+Meswaeti,tasseling/seed filling,10-05,10-16
+Meswaeti,harvesting,10-31,12-05
+Meswaeti,land preparation,12-25,06-07
+Meswaeti,planting,07-14,07-26
+Meswaeti,flowering,09-03,09-25
+Meswaeti,tasseling/seed filling,09-30,10-15
+Meswaeti,harvesting,11-14,12-04
+Wargba,land preparation,02-11,07-07
+Wargba,planting,07-23,08-13
+Wargba,flowering,08-22,09-26
+Wargba,tasseling/seed filling,09-28,10-10
+Wargba,harvesting,10-26,12-09
+Wargba,land preparation,02-09,04-08
+Wargba,planting,04-22,06-07
+Wargba,flowering,08-22,09-05
+Wargba,tasseling/seed filling,09-26,11-09
+Wargba,harvesting,12-01,12-24
+Tahtay haya,land preparation,01-10,07-08
+Tahtay haya,planting,08-01,08-12
+Tahtay haya,flowering,09-03,09-25
+Tahtay haya,tasseling/seed filling,09-28,10-25
+Tahtay haya,harvesting,12-10,12-09
+Tahtay haya,land preparation,01-10,07-05
+Tahtay haya,planting,07-17,07-29
+Tahtay haya,flowering,09-02,09-27
+Tahtay haya,tasseling/seed filling,10-02,10-15
+Tahtay haya,harvesting,11-14,12-02
+Mekan,land preparation,01-10,07-13
+Mekan,planting,07-22,08-01
+Mekan,flowering,08-21,09-16
+Mekan,tasseling/seed filling,09-27,10-11
+Mekan,harvesting,10-31,11-25
+Mekan,land preparation,01-10,07-07
+Mekan,planting,07-13,07-22
+Mekan,flowering,09-05,09-26
+Mekan,tasseling/seed filling,10-11,10-26
+Mekan,harvesting,11-16,12-10
+Hizba Teklehymanot,land preparation,12-25,07-17
+Hizba Teklehymanot,planting,07-28,08-14
+Hizba Teklehymanot,flowering,08-31,09-10
+Hizba Teklehymanot,tasseling/seed filling,09-15,09-26
+Hizba Teklehymanot,harvesting,10-20,11-14
+Hizba Teklehymanot,land preparation,12-24,06-22
+Hizba Teklehymanot,planting,07-08,07-22
+Hizba Teklehymanot,flowering,09-05,09-20
+Hizba Teklehymanot,tasseling/seed filling,09-27,10-15
+Hizba Teklehymanot,harvesting,11-10,11-29
+Tekea,land preparation,01-10,06-07
+Tekea,planting,06-08,08-06
+Tekea,flowering,08-22,09-11
+Tekea,tasseling/seed filling,09-26,10-11
+Tekea,harvesting,10-17,12-10
+Tekea,land preparation,06-08,06-08
+Tekea,planting,06-08,07-07
+Tekea,flowering,08-22,09-27
+Tekea,tasseling/seed filling,09-27,10-12
+Tekea,harvesting,10-28,11-10
+Debrebrhan,land preparation,06-08,07-22
+Debrebrhan,planting,07-25,08-04
+Debrebrhan,flowering,09-12,09-26
+Debrebrhan,tasseling/seed filling,09-26,10-26
+Debrebrhan,harvesting,11-23,12-02
+Debrebrhan,land preparation,03-10,06-22
+Debrebrhan,planting,07-05,07-22
+Debrebrhan,flowering,08-22,09-11
+Debrebrhan,tasseling/seed filling,09-28,10-11
+Debrebrhan,harvesting,10-15,12-10
+Hayelom,land preparation,06-08,07-20
+Hayelom,planting,07-22,08-06
+Hayelom,flowering,09-05,09-24
+Hayelom,tasseling/seed filling,10-12,10-27
+Hayelom,harvesting,10-31,12-10
+Hayelom,land preparation,03-10,06-07
+Hayelom,planting,06-29,08-06
+Hayelom,flowering,08-22,09-05
+Hayelom,tasseling/seed filling,09-28,10-11
+Hayelom,harvesting,10-15,12-10
+Hadnet,land preparation,05-24,07-22
+Hadnet,planting,08-01,08-11
+Hadnet,flowering,09-28,10-11
+Hadnet,tasseling/seed filling,11-05,11-25
+Hadnet,harvesting,12-05,12-25
+Hadnet,land preparation,03-10,06-17
+Hadnet,planting,06-20,08-02
+Hadnet,flowering,08-31,09-28
+Hadnet,tasseling/seed filling,10-23,11-09
+Hadnet,harvesting,11-11,12-15
+Seret,land preparation,01-10,06-23
+Seret,planting,07-30,08-06
+Seret,flowering,09-25,10-10
+Seret,tasseling/seed filling,10-26,11-09
+Seret,harvesting,11-25,12-10
+Seret,land preparation,01-10,06-10
+Seret,planting,06-20,07-08
+Seret,flowering,08-21,09-05
+Seret,tasseling/seed filling,09-26,10-11
+Seret,harvesting,11-26,11-25
+Cheli,land preparation,05-09,07-07
+Cheli,planting,07-08,07-31
+Cheli,flowering,08-22,09-05
+Cheli,tasseling/seed filling,09-01,09-16
+Cheli,harvesting,10-17,11-10
+Cheli,land preparation,02-08,05-08
+Cheli,planting,05-09,06-22
+Cheli,flowering,08-07,09-05
+Cheli,tasseling/seed filling,08-16,09-15
+Cheli,harvesting,11-10,12-10
+Esiret,land preparation,03-10,07-07
+Esiret,planting,07-08,08-02
+Esiret,flowering,08-22,08-30
+Esiret,tasseling/seed filling,08-27,09-04
+Esiret,harvesting,10-11,11-10
+Esiret,land preparation,01-09,03-09
+Esiret,planting,05-09,06-22
+Esiret,flowering,08-21,09-27
+Esiret,tasseling/seed filling,08-28,09-10
+Esiret,harvesting,11-11,12-04
+Bamba,land preparation,06-22,07-12
+Bamba,planting,07-13,07-29
+Bamba,flowering,08-21,09-05
+Bamba,tasseling/seed filling,09-04,09-16
+Bamba,harvesting,10-12,10-27
+Bamba,land preparation,03-10,05-13
+Bamba,planting,05-14,06-22
+Bamba,flowering,08-11,09-05
+Bamba,tasseling/seed filling,08-21,09-16
+Bamba,harvesting,11-11,11-23
+Anigot,land preparation,05-09,07-07
+Anigot,planting,07-12,07-28
+Anigot,flowering,09-12,10-11
+Anigot,tasseling/seed filling,10-12,11-10
+Anigot,harvesting,11-11,12-10
+Anigot,land preparation,03-10,05-08
+Anigot,planting,05-09,01-19
+Anigot,flowering,08-23,08-22
+Anigot,tasseling/seed filling,08-27,09-28
+Anigot,harvesting,10-27,11-10
+Anigot,land preparation,04-09,06-07
+Anigot,planting,06-08,07-07
+Anigot,flowering,08-22,09-12
+Anigot,tasseling/seed filling,09-27,10-26
+Anigot,harvesting,11-11,12-10
+Estifanos,land preparation,03-10,07-07
+Estifanos,planting,07-12,08-06
+Estifanos,flowering,09-03,10-01
+Estifanos,tasseling/seed filling,10-02,10-16
+Estifanos,harvesting,10-21,12-10
+Estifanos,land preparation,03-10,05-08
+Estifanos,planting,05-09,06-12
+Estifanos,flowering,08-22,09-05
+Estifanos,tasseling/seed filling,09-12,09-27
+Estifanos,harvesting,10-11,10-31
+Estifanos,land preparation,03-10,05-08
+Estifanos,planting,05-09,06-22
+Estifanos,flowering,09-05,09-27
+Estifanos,tasseling/seed filling,09-27,10-16
+Estifanos,harvesting,11-15,12-10
+Mitad,land preparation,03-10,06-02
+Mitad,planting,06-08,07-12
+Mitad,flowering,08-22,09-05
+Mitad,tasseling/seed filling,09-16,11-11
+Mitad,harvesting,11-11,12-10
+Mitad,land preparation,12-11,05-11
+Mitad,planting,06-08,07-07
+Mitad,flowering,08-21,09-12
+Mitad,tasseling/seed filling,09-26,11-10
+Mitad,harvesting,11-12,12-09
+Agela,land preparation,03-10,06-07
+Agela,planting,07-03,07-22
+Agela,flowering,08-21,09-16
+Agela,tasseling/seed filling,09-26,10-21
+Agela,harvesting,10-26,12-10
+Agela,land preparation,02-18,05-08
+Agela,planting,05-09,05-28
+Agela,flowering,08-07,09-05
+Agela,tasseling/seed filling,09-16,10-01
+Agela,harvesting,10-24,11-10
+shamo,land preparation,01-10,06-23
+shamo,planting,07-08,07-23
+shamo,flowering,09-12,09-27
+shamo,tasseling/seed filling,10-12,10-27
+shamo,harvesting,11-11,12-26
+shamo,land preparation,03-10,05-08
+shamo,planting,05-09,05-24
+shamo,flowering,08-07,08-22
+shamo,tasseling/seed filling,08-27,09-27
+shamo,harvesting,10-27,11-10
+Yifag Akababi,land preparation,03-10,06-07
+Yifag Akababi,planting,06-03,06-12
+Yifag Akababi,flowering,08-06,08-16
+Yifag Akababi,tasseling/seed filling,08-21,09-27
+Yifag Akababi,harvesting,10-17,11-10
+Yifag Akababi,land preparation,03-10,06-17
+Yifag Akababi,planting,06-20,08-07
+Yifag Akababi,flowering,09-21,10-11
+Yifag Akababi,tasseling/seed filling,10-12,11-10
+Yifag Akababi,harvesting,11-11,12-10
+Yifag Akababi,land preparation,05-09,06-07
+Yifag Akababi,planting,06-08,06-23
+Yifag Akababi,flowering,09-27,10-11
+Yifag Akababi,tasseling/seed filling,10-12,11-10
+Yifag Akababi,harvesting,11-11,12-10
+Bilb Wuha,land preparation,12-25,06-06
+Bilb Wuha,planting,06-22,07-07
+Bilb Wuha,flowering,08-11,09-05
+Bilb Wuha,tasseling/seed filling,09-16,10-16
+Bilb Wuha,harvesting,11-10,11-15
+Bilb Wuha,land preparation,12-25,05-28
+Bilb Wuha,planting,06-08,06-22
+Bilb Wuha,flowering,08-21,09-27
+Bilb Wuha,tasseling/seed filling,09-29,10-27
+Bilb Wuha,harvesting,11-15,12-10
+Michel Debre,land preparation,03-10,06-07
+Michel Debre,planting,06-23,07-07
+Michel Debre,flowering,09-12,09-26
+Michel Debre,tasseling/seed filling,10-01,10-11
+Michel Debre,harvesting,11-04,12-10
+Michel Debre,land preparation,12-11,05-08
+Michel Debre,planting,07-14,06-30
+Michel Debre,flowering,08-30,09-21
+Michel Debre,tasseling/seed filling,10-01,10-21
+Michel Debre,harvesting,11-10,12-10
+Tahtay haya,land preparation,01-10,07-08
+Tahtay haya,planting,08-01,08-12
+Tahtay haya,flowering,09-03,09-25
+Tahtay haya,tasseling/seed filling,09-28,10-25
+Tahtay haya,harvesting,11-10,12-09
+Tahtay haya,land preparation,01-10,07-05
+Tahtay haya,planting,07-17,07-29
+Tahtay haya,flowering,09-02,09-27
+Tahtay haya,tasseling/seed filling,10-02,10-15
+Tahtay haya,harvesting,11-14,12-02
+Tao,land preparation,03-08,07-23
+Tao,planting,07-25,08-24
+Tao,flowering,09-15,09-25
+Tao,tasseling/seed filling,10-08,10-23
+Tao,harvesting,11-08,12-08
+Tao,land preparation,01-21,04-08
+Tao,planting,04-10,06-08
+Tao,flowering,08-21,09-12
+Tao,tasseling/seed filling,09-24,11-08
+Tao,harvesting,11-15,01-08
+Dinkashena,land preparation,01-11,04-16
+Dinkashena,planting,05-08,06-22
+Dinkashena,flowering,09-16,10-11
+Dinkashena,tasseling/seed filling,10-26,11-16
+Dinkashena,harvesting,11-23,12-08
+Dinkashena,land preparation,01-11,05-07
+Dinkashena,planting,06-28,07-06
+Dinkashena,flowering,08-22,09-12
+Dinkashena,tasseling/seed filling,09-17,09-26
+Dinkashena,harvesting,10-01,10-31
+Darubekeda,land preparation,12-14,04-07
+Darubekeda,planting,04-22,06-07
+Darubekeda,flowering,08-27,09-09
+Darubekeda,tasseling/seed filling,10-11,11-11
+Darubekeda,harvesting,11-14,12-10
+Darubekeda,land preparation,12-14,05-07
+Darubekeda,planting,06-28,07-16
+Darubekeda,flowering,08-22,09-07
+Darubekeda,tasseling/seed filling,09-09,09-17
+Darubekeda,harvesting,10-05,11-15
+Wusha Tires,land preparation,04-23,07-07
+Wusha Tires,planting,07-12,08-06
+Wusha Tires,flowering,09-26,10-26
+Wusha Tires,tasseling/seed filling,10-27,11-10
+Wusha Tires,harvesting,11-23,12-26
+Wusha Tires,land preparation,03-10,06-07
+Wusha Tires,planting,06-08,06-22
+Wusha Tires,flowering,09-06,09-26
+Wusha Tires,tasseling/seed filling,09-28,10-10
+Wusha Tires,land preparation,03-10,05-09
+Wusha Tires,planting,05-18,06-07
+Wusha Tires,flowering,09-01,09-26
+Wusha Tires,tasseling/seed filling,09-30,10-16
+Wusha Tires,harvesting,10-31,12-10
+Asta,land preparation,12-11,05-24
+Asta,planting,06-08,06-30
+Asta,flowering,09-05,09-27
+Asta,tasseling/seed filling,09-28,10-21
+Asta,harvesting,10-31,11-26
+Asta,land preparation,12-11,05-08
+Asta,planting,05-09,10-16
+Asta,flowering,08-22,09-26
+Asta,tasseling/seed filling,09-27,10-16
+Asta,harvesting,11-11,12-10
+Santagelebeda,land preparation,05-08,06-28
+Santagelebeda,planting,01-29,07-24
+Santagelebeda,flowering,08-24,09-09
+Santagelebeda,tasseling/seed filling,09-10,09-23
+Santagelebeda,harvesting,10-09,10-28
+Santagelebeda,land preparation,03-09,05-08
+Santagelebeda,planting,05-09,06-14
+Santagelebeda,flowering,07-09,08-03
+Santagelebeda,tasseling/seed filling,08-24,09-09
+Santagelebeda,harvesting,09-23,11-09
+Mtsai werki,land preparation,05-09,06-09
+Mtsai werki,planting,06-02,07-20
+Mtsai werki,flowering,08-23,09-08
+Mtsai werki,tasseling/seed filling,09-24,10-08
+Mtsai werki,harvesting,10-09,11-08
+Mtsai werki,land preparation,03-09,04-08
+Mtsai werki,planting,05-08,06-08
+Mtsai werki,flowering,08-08,08-23
+Mtsai werki,tasseling/seed filling,09-09,10-08
+Mtsai werki,harvesting,10-09,11-08
+Mtsai werki,land preparation,03-09,04-08
+Mtsai werki,planting,05-09,06-08
+Mtsai werki,flowering,08-04,09-08
+Mtsai werki,tasseling/seed filling,09-09,09-24
+Mtsai werki,harvesting,11-09,12-08
+Guroro,land preparation,04-09,05-03
+Guroro,planting,05-23,06-18
+Guroro,flowering,08-23,08-08
+Guroro,tasseling/seed filling,09-09,09-25
+Guroro,harvesting,10-13,10-28
+Guroro,land preparation,04-09,05-03
+Guroro,planting,05-23,06-18
+Guroro,flowering,09-09,09-25
+Guroro,tasseling/seed filling,09-08,10-23
+Guroro,harvesting,11-09,11-28
+Debrinetseb,land preparation,01-14,03-08
+Debrinetseb,planting,05-09,05-21
+Debrinetseb,flowering,08-24,09-08
+Debrinetseb,tasseling/seed filling,09-09,10-09
+Debrinetseb,harvesting,10-23,11-08
+Debrinetseb,land preparation,01-14,03-08
+Debrinetseb,planting,05-09,05-21
+Debrinetseb,flowering,09-08,09-24
+Debrinetseb,tasseling/seed filling,10-18,11-08
+Debrinetseb,harvesting,11-14,12-08
+AwetBikalsi,land preparation,05-09,07-05
+AwetBikalsi,planting,07-09,07-23
+AwetBikalsi,flowering,08-24,09-09
+AwetBikalsi,tasseling/seed filling,09-14,09-24
+AwetBikalsi,harvesting,10-09,10-24
+AwetBikalsi,land preparation,03-09,04-23
+AwetBikalsi,planting,05-09,06-29
+AwetBikalsi,flowering,08-09,08-24
+AwetBikalsi,tasseling/seed filling,09-09,09-25
+AwetBikalsi,harvesting,10-09,10-23
+AwetBikalsi,land preparation,03-09,04-23
+AwetBikalsi,planting,05-09,06-29
+AwetBikalsi,flowering,08-09,08-24
+AwetBikalsi,tasseling/seed filling,09-09,09-25
+AwetBikalsi,harvesting,10-23,11-08
+Guya,land preparation,03-09,05-08
+Guya,planting,05-09,06-20
+Guya,flowering,08-23,09-08
+Guya,tasseling/seed filling,09-09,11-07
+Guya,harvesting,10-09,10-23
+Guya,land preparation,03-09,04-08
+Guya,planting,05-09,06-20
+Guya,flowering,08-23,09-08
+Guya,tasseling/seed filling,09-09,10-08
+Guya,harvesting,11-15,11-29
+Smret,land preparation,02-13,03-23
+Smret,planting,05-13,06-13
+Smret,flowering,08-09,09-13
+Smret,tasseling/seed filling,09-14,09-24
+Smret,harvesting,10-13,11-08
+Smret,land preparation,02-13,03-23
+Smret,planting,05-13,06-13
+Smret,flowering,08-09,09-13
+Smret,tasseling/seed filling,09-14,09-24
+Smret,harvesting,11-24,12-08
+Derita,land preparation,02-01,04-23
+Derita,planting,05-09,05-23
+Derita,flowering,08-07,08-22
+Derita,tasseling/seed filling,09-05,10-11
+Derita,harvesting,10-27,11-10
+Derita,land preparation,02-09,04-08
+Derita,planting,04-09,05-08
+Derita,flowering,08-07,09-05
+Derita,tasseling/seed filling,09-12,09-26
+Derita,harvesting,10-26,11-20
+Libo,land preparation,12-11,05-08
+Libo,planting,05-23,06-16
+Libo,flowering,08-22,09-05
+Libo,tasseling/seed filling,09-12,10-26
+Libo,harvesting,11-11,12-10
+Libo,land preparation,12-11,03-10
+Libo,planting,03-24,05-24
+Libo,flowering,06-08,07-23
+Libo,tasseling/seed filling,08-07,09-05
+Libo,harvesting,08-22,01-10
+Enda-Felasi,land preparation,01-09,06-30
+Enda-Felasi,planting,07-05,07-25
+Enda-Felasi,flowering,08-24,09-10
+Enda-Felasi,tasseling/seed filling,09-12,09-26
+Enda-Felasi,harvesting,10-09,11-11
+Enda-Felasi,land preparation,01-09,05-08
+Enda-Felasi,planting,05-23,06-22
+Enda-Felasi,flowering,08-18,08-26
+Enda-Felasi,tasseling/seed filling,09-06,09-28
+Enda-Felasi,harvesting,10-01,10-21
+Enda-Felasi,land preparation,01-09,03-24
+Enda-Felasi,planting,04-09,01-08
+Enda-Felasi,flowering,08-22,09-12
+Enda-Felasi,tasseling/seed filling,09-16,10-26
+Enda-Felasi,harvesting,11-11,11-25
+Mendere Mariam,land preparation,03-10,06-07
+Mendere Mariam,planting,06-27,07-12
+Mendere Mariam,flowering,09-12,09-27
+Mendere Mariam,tasseling/seed filling,10-12,11-10
+Mendere Mariam,harvesting,11-15,01-09
+Mendere Mariam,land preparation,12-25,05-28
+Mendere Mariam,planting,06-08,06-19
+Mendere Mariam,flowering,08-22,09-27
+Mendere Mariam,tasseling/seed filling,09-27,11-10
+Mendere Mariam,harvesting,11-11,12-11
+Ginaza,land preparation,03-10,07-07
+Ginaza,planting,07-08,07-23
+Ginaza,flowering,09-05,09-27
+Ginaza,tasseling/seed filling,09-28,10-11
+Ginaza,harvesting,11-05,12-10
+Ginaza,land preparation,03-10,05-08
+Ginaza,planting,05-09,06-07
+Ginaza,flowering,08-22,09-05
+Ginaza,tasseling/seed filling,09-12,09-27
+Ginaza,harvesting,10-12,11-10
+Tibaga,land preparation,05-09,06-07
+Tibaga,planting,06-12,06-20
+Tibaga,flowering,08-18,09-05
+Tibaga,tasseling/seed filling,09-12,09-28
+Tibaga,harvesting,10-16,10-26
+Tibaga,land preparation,05-09,06-07
+Tibaga,planting,06-08,07-07
+Tibaga,flowering,09-23,10-11
+Tibaga,tasseling/seed filling,10-12,11-11
+Tibaga,harvesting,11-27,12-10
+Tibaga,land preparation,05-09,06-12
+Tibaga,planting,06-13,07-07
+Tibaga,flowering,09-26,10-11
+Tibaga,tasseling/seed filling,10-12,11-10
+Tibaga,harvesting,11-11,12-10
+Tara Gedam,land preparation,03-10,08-07
+Tara Gedam,planting,07-08,08-07
+Tara Gedam,flowering,08-22,10-11
+Tara Gedam,tasseling/seed filling,10-12,11-10
+Tara Gedam,harvesting,11-15,12-10
+Tara Gedam,land preparation,03-10,05-08
+Tara Gedam,planting,05-15,01-07
+Tara Gedam,flowering,08-07,08-22
+Tara Gedam,tasseling/seed filling,08-27,09-27
+Tara Gedam,harvesting,10-12,11-10
+Tara Gedam,land preparation,03-10,06-07
+Tara Gedam,planting,06-08,06-23
+Tara Gedam,flowering,07-23,08-21
+Tara Gedam,tasseling/seed filling,08-22,09-26
+Tara Gedam,harvesting,10-12,11-10
+Shehoch Tehara,land preparation,03-10,07-05
+Shehoch Tehara,planting,07-08,07-30
+Shehoch Tehara,flowering,09-06,09-27
+Shehoch Tehara,tasseling/seed filling,09-28,10-16
+Shehoch Tehara,harvesting,10-26,11-26
+Shehoch Tehara,land preparation,03-10,05-09
+Shehoch Tehara,planting,05-10,05-18
+Shehoch Tehara,flowering,08-07,08-16
+Shehoch Tehara,tasseling/seed filling,09-12,09-27
+Shehoch Tehara,harvesting,10-12,10-21
+Shehoch Tehara,land preparation,06-08,06-12
+Shehoch Tehara,planting,06-14,06-24
+Shehoch Tehara,flowering,08-07,09-05
+Shehoch Tehara,tasseling/seed filling,09-12,09-27
+Shehoch Tehara,harvesting,10-12,10-18
+Metkel,land preparation,05-20,07-24
+Metkel,planting,07-30,08-07
+Metkel,flowering,09-08,09-18
+Metkel,tasseling/seed filling,09-24,10-08
+Metkel,harvesting,10-24,11-23
+Metkel,land preparation,03-20,06-22
+Metkel,planting,07-09,07-15
+Metkel,flowering,08-27,09-07
+Metkel,tasseling/seed filling,09-03,09-22
+Metkel,harvesting,10-08,10-24
+Metkel,land preparation,03-20,05-30
+Metkel,planting,07-31,07-12
+Metkel,flowering,08-23,09-03
+Metkel,tasseling/seed filling,09-04,09-23
+Metkel,harvesting,10-08,11-07
+HagereSelam,land preparation,04-08,07-19
+HagereSelam,planting,07-30,08-14
+HagereSelam,flowering,09-27,10-22
+HagereSelam,tasseling/seed filling,10-23,11-07
+HagereSelam,harvesting,11-17,12-15
+HagereSelam,land preparation,01-08,07-07
+HagereSelam,planting,07-08,07-29
+HagereSelam,flowering,08-23,09-23
+HagereSelam,tasseling/seed filling,09-27,10-22
+HagereSelam,harvesting,10-29,11-14
+HagereSelam,land preparation,01-08,06-08
+HagereSelam,planting,06-23,07-07
+HagereSelam,flowering,08-12,09-08
+HagereSelam,tasseling/seed filling,09-09,10-07
+HagereSelam,harvesting,10-12,11-07
+Fikre-Alem,land preparation,05-08,07-22
+Fikre-Alem,planting,07-30,08-21
+Fikre-Alem,flowering,09-08,09-27
+Fikre-Alem,tasseling/seed filling,10-12,11-07
+Fikre-Alem,harvesting,11-08,12-07
+Fikre-Alem,land preparation,05-08,06-22
+Fikre-Alem,planting,07-05,07-22
+Fikre-Alem,flowering,09-15,09-23
+Fikre-Alem,tasseling/seed filling,10-08,10-22
+Fikre-Alem,harvesting,10-27,11-15
+Fikre-Alem,land preparation,03-08,06-07
+Fikre-Alem,planting,06-30,07-15
+Fikre-Alem,flowering,08-23,09-08
+Fikre-Alem,tasseling/seed filling,09-12,09-23
+Fikre-Alem,harvesting,10-17,11-07
+Mozutey,land preparation,03-22,06-07
+Mozutey,planting,06-25,07-07
+Mozutey,flowering,08-28,09-08
+Mozutey,tasseling/seed filling,09-08,09-23
+Mozutey,harvesting,10-12,10-23
+Mozutey,land preparation,03-23,06-30
+Mozutey,planting,07-08,07-11
+Mozutey,flowering,08-15,08-22
+Mozutey,tasseling/seed filling,09-02,09-07
+Mozutey,harvesting,09-20,09-25
+Debrebirhan,land preparation,06-08,06-17
+Debrebirhan,planting,07-18,07-25
+Debrebirhan,flowering,09-02,09-23
+Debrebirhan,tasseling/seed filling,09-25,10-07
+Debrebirhan,harvesting,10-23,11-23
+Debrebirhan,land preparation,03-08,06-17
+Debrebirhan,planting,06-24,07-20
+Debrebirhan,flowering,08-23,10-12
+Debrebirhan,tasseling/seed filling,09-23,10-12
+Debrebirhan,harvesting,10-15,10-22
+Debrebirhan,land preparation,03-08,04-27
+Debrebirhan,planting,04-29,06-05
+Debrebirhan,flowering,08-23,09-04
+Debrebirhan,tasseling/seed filling,09-08,09-07
+Debrebirhan,harvesting,10-17,11-22
+Selam,land preparation,03-22,06-22
+Selam,planting,06-29,07-15
+Selam,flowering,08-22,09-07
+Selam,tasseling/seed filling,09-08,10-07
+Selam,harvesting,10-08,11-07
+Selam,land preparation,03-22,06-22
+Selam,planting,05-27,06-07
+Selam,flowering,07-27,09-07
+Selam,tasseling/seed filling,10-07,10-12
+Selam,harvesting,10-17,10-22
+Debreselam,land preparation,03-10,04-23
+Debreselam,planting,05-01,06-07
+Debreselam,flowering,08-07,09-05
+Debreselam,tasseling/seed filling,09-26,10-11
+Debreselam,harvesting,11-14,11-30
+Debreselam,land preparation,05-09,06-12
+Debreselam,planting,07-01,07-17
+Debreselam,flowering,08-21,09-05
+Debreselam,tasseling/seed filling,09-11,09-27
+Debreselam,harvesting,10-18,11-24
+Debreselam,land preparation,03-10,04-23
+Debreselam,planting,05-01,06-07
+Debreselam,flowering,08-07,09-05
+Debreselam,tasseling/seed filling,09-25,10-10
+Debreselam,harvesting,10-11,10-30
+Hareko,land preparation,01-08,07-22
+Hareko,planting,07-23,08-07
+Hareko,flowering,09-17,10-08
+Hareko,tasseling/seed filling,10-22,11-08
+Hareko,harvesting,11-17,12-07
+Hareko,land preparation,01-08,06-07
+Hareko,planting,07-08,07-17
+Hareko,flowering,09-05,09-17
+Hareko,tasseling/seed filling,10-08,10-22
+Hareko,harvesting,11-08,11-22
+Hareko,land preparation,01-08,06-07
+Hareko,planting,06-22,07-07
+Hareko,flowering,08-23,09-05
+Hareko,tasseling/seed filling,09-08,09-22
+Hareko,harvesting,10-08,10-27
+Qoraro,land preparation,05-10,08-16
+Qoraro,planting,06-08,08-06
+Qoraro,flowering,08-22,10-10
+Qoraro,tasseling/seed filling,09-25,09-25
+Qoraro,harvesting,10-15,11-09
+Qoraro,land preparation,03-10,05-09
+Qoraro,planting,05-11,06-17
+Qoraro,flowering,08-12,09-05
+Qoraro,tasseling/seed filling,09-08,10-08
+Qoraro,harvesting,10-15,10-20
+Qoraro,land preparation,03-10,05-09
+Qoraro,planting,05-11,06-07
+Qoraro,flowering,08-16,09-05
+Qoraro,tasseling/seed filling,09-10,10-10
+Qoraro,harvesting,11-25,11-19
+Hadashtekli,land preparation,01-09,04-08
+Hadashtekli,planting,05-24,07-05
+Hadashtekli,flowering,08-24,09-09
+Hadashtekli,tasseling/seed filling,09-13,10-08
+Hadashtekli,harvesting,10-23,11-23
+Hadashtekli,land preparation,01-09,04-08
+Hadashtekli,planting,05-23,07-13
+Hadashtekli,flowering,08-24,09-13
+Hadashtekli,tasseling/seed filling,09-24,10-20
+Hadashtekli,harvesting,11-08,12-08
+Mechena,land preparation,01-10,06-28
+Mechena,planting,07-19,08-06
+Mechena,flowering,09-16,09-23
+Mechena,tasseling/seed filling,10-11,11-10
+Mechena,harvesting,11-15,12-10
+Mechena,land preparation,03-10,05-08
+Mechena,planting,05-09,05-20
+Mechena,flowering,07-19,08-06
+Mechena,tasseling/seed filling,08-30,10-11
+Mechena,harvesting,10-27,11-10
+Mechena,land preparation,10-12,03-09
+Mechena,planting,03-25,11-13
+Mechena,flowering,08-22,09-16
+Mechena,tasseling/seed filling,09-27,10-27
+Mechena,harvesting,11-11,11-26
+Ader Seg,land preparation,12-25,05-08
+Ader Seg,planting,07-08,08-06
+Ader Seg,flowering,08-31,09-27
+Ader Seg,tasseling/seed filling,09-28,10-11
+Ader Seg,harvesting,10-16,11-10
+Ader Seg,land preparation,01-10,05-08
+Ader Seg,planting,06-08,06-22
+Ader Seg,flowering,08-11,08-22
+Ader Seg,tasseling/seed filling,09-06,09-27
+Ader Seg,harvesting,10-12,11-10
+Ader Seg,land preparation,01-10,05-08
+Ader Seg,planting,06-08,06-23
+Ader Seg,flowering,07-27,09-05
+Ader Seg,tasseling/seed filling,09-06,09-26
+Ader Seg,harvesting,10-06,10-16
+Tigage,land preparation,12-11,05-08
+Tigage,planting,07-08,08-11
+Tigage,flowering,08-26,09-16
+Tigage,tasseling/seed filling,09-23,10-01
+Tigage,harvesting,10-02,11-10
+Tigage,land preparation,12-11,04-08
+Tigage,planting,06-08,06-23
+Tigage,flowering,08-22,09-05
+Tigage,tasseling/seed filling,09-06,09-23
+Tigage,harvesting,09-27,10-01
+Tigage,land preparation,12-11,04-08
+Tigage,planting,06-07,07-07
+Tigage,flowering,08-22,09-05
+Tigage,tasseling/seed filling,09-06,09-10
+Tigage,harvesting,09-16,09-26
+Amisetya,land preparation,02-08,07-07
+Amisetya,planting,07-08,07-22
+Amisetya,flowering,09-16,09-27
+Amisetya,tasseling/seed filling,09-28,10-16
+Amisetya,harvesting,11-05,11-26
+Amisetya,land preparation,03-10,05-08
+Amisetya,planting,05-09,05-18
+Amisetya,flowering,08-07,08-21
+Amisetya,tasseling/seed filling,09-05,09-26
+Amisetya,harvesting,10-12,10-26
+Amisetya,land preparation,12-25,05-08
+Amisetya,planting,06-05,06-12
+Amisetya,flowering,08-01,08-06
+Amisetya,tasseling/seed filling,08-07,08-22
+Amisetya,harvesting,08-31,09-05
+Deber Aba Jale,land preparation,10-12,07-07
+Deber Aba Jale,planting,07-08,07-16
+Deber Aba Jale,flowering,09-06,09-27
+Deber Aba Jale,tasseling/seed filling,09-28,10-11
+Deber Aba Jale,harvesting,11-11,11-26
+Deber Aba Jale,land preparation,10-12,06-07
+Deber Aba Jale,planting,06-08,06-22
+Deber Aba Jale,flowering,08-07,09-05
+Deber Aba Jale,tasseling/seed filling,09-06,09-21
+Deber Aba Jale,harvesting,09-27,10-11
+Tara Senba,land preparation,10-26,05-29
+Tara Senba,planting,06-08,07-12
+Tara Senba,flowering,08-22,09-16
+Tara Senba,tasseling/seed filling,09-17,10-11
+Tara Senba,harvesting,10-26,11-25
+Tara Senba,land preparation,10-26,05-28
+Tara Senba,planting,06-08,06-23
+Tara Senba,flowering,08-07,08-16
+Tara Senba,tasseling/seed filling,08-21,09-05
+Tara Senba,harvesting,09-07,09-21
+Aqua Shumoch,land preparation,12-11,05-08
+Aqua Shumoch,planting,07-08,08-06
+Aqua Shumoch,flowering,08-31,09-12
+Aqua Shumoch,tasseling/seed filling,09-13,09-27
+Aqua Shumoch,harvesting,10-01,11-10
+Aqua Shumoch,land preparation,12-11,05-08
+Aqua Shumoch,planting,06-08,07-07
+Aqua Shumoch,flowering,09-06,09-26
+Aqua Shumoch,tasseling/seed filling,09-27,10-11
+Aqua Shumoch,harvesting,10-26,11-15
+Aqua Shumoch,land preparation,12-11,05-08
+Aqua Shumoch,planting,06-08,07-07
+Aqua Shumoch,flowering,08-22,09-16
+Aqua Shumoch,tasseling/seed filling,09-17,10-11
+Aqua Shumoch,harvesting,10-12,10-21
+Niquara,land preparation,11-11,06-12
+Niquara,planting,07-08,07-01
+Niquara,flowering,08-22,09-11
+Niquara,tasseling/seed filling,09-12,09-30
+Niquara,harvesting,10-05,10-25
+Niquara,land preparation,01-09,05-09
+Niquara,planting,05-10,06-07
+Niquara,flowering,08-22,09-15
+Niquara,tasseling/seed filling,09-25,10-10
+Niquara,harvesting,11-04,11-24
+Niquara,land preparation,12-10,06-12
+Niquara,planting,06-13,07-04
+Niquara,flowering,08-22,09-05
+Niquara,tasseling/seed filling,09-26,10-10
+Niquara,harvesting,10-15,11-09
+Jiman Deregeha,land preparation,02-09,06-22
+Jiman Deregeha,planting,07-05,07-12
+Jiman Deregeha,flowering,09-05,09-11
+Jiman Deregeha,tasseling/seed filling,09-26,10-26
+Jiman Deregeha,harvesting,11-10,11-25
+Jiman Deregeha,land preparation,12-10,06-02
+Jiman Deregeha,planting,06-05,06-11
+Jiman Deregeha,flowering,08-07,08-22
+Jiman Deregeha,tasseling/seed filling,08-30,09-06
+Jiman Deregeha,harvesting,09-26,10-10
+Abina,land preparation,12-11,06-23
+Abina,planting,07-08,07-23
+Abina,flowering,08-21,09-05
+Abina,tasseling/seed filling,09-15,10-10
+Abina,harvesting,10-11,11-09
+Abina,land preparation,01-24,03-23
+Abina,planting,05-09,06-07
+Abina,flowering,08-07,08-22
+Abina,tasseling/seed filling,08-22,09-05
+Abina,harvesting,11-25,12-09
+Abina,land preparation,03-10,04-08
+Abina,planting,06-08,07-07
+Abina,flowering,08-07,09-05
+Abina,tasseling/seed filling,09-06,09-26
+Abina,harvesting,09-26,10-10
+Deber kerbye,land preparation,06-13,07-10
+Deber kerbye,planting,07-16,07-22
+Deber kerbye,flowering,08-26,09-17
+Deber kerbye,tasseling/seed filling,09-18,10-15
+Deber kerbye,harvesting,10-25,11-15
+Deber kerbye,land preparation,05-09,05-11
+Deber kerbye,planting,05-15,05-26
+Deber kerbye,flowering,08-01,08-18
+Deber kerbye,tasseling/seed filling,09-11,10-10
+Deber kerbye,harvesting,11-10,12-09
+Balarab,land preparation,12-11,07-02
+Balarab,planting,07-08,08-06
+Balarab,flowering,08-21,09-05
+Balarab,tasseling/seed filling,09-12,09-27
+Balarab,harvesting,10-12,12-10
+Balarab,land preparation,01-11,05-08
+Balarab,planting,05-09,07-07
+Balarab,flowering,08-21,09-26
+Balarab,tasseling/seed filling,10-10,10-23
+Balarab,harvesting,11-11,12-10
+Aquha,land preparation,12-11,06-07
+Aquha,planting,06-08,07-12
+Aquha,flowering,08-22,09-15
+Aquha,tasseling/seed filling,09-23,10-16
+Aquha,harvesting,10-27,11-20
+Aquha,land preparation,01-10,04-24
+Aquha,planting,05-09,06-02
+Aquha,flowering,08-22,09-11
+Aquha,tasseling/seed filling,09-26,10-23
+Aquha,harvesting,11-11,11-26
+Aquha,land preparation,01-10,04-24
+Aquha,planting,05-09,06-02
+Aquha,flowering,08-22,09-11
+Aquha,tasseling/seed filling,09-26,10-23
+Aquha,harvesting,11-11,11-26
+Gela Matebiya,land preparation,02-09,06-22
+Gela Matebiya,planting,07-02,07-23
+Gela Matebiya,flowering,08-07,08-26
+Gela Matebiya,tasseling/seed filling,09-11,09-30
+Gela Matebiya,harvesting,10-11,11-19
+Gela Matebiya,land preparation,02-09,05-08
+Gela Matebiya,planting,05-09,06-07
+Gela Matebiya,flowering,08-07,09-05
+Gela Matebiya,tasseling/seed filling,09-11,10-10
+Gela Matebiya,harvesting,11-10,11-19
+Ziha,land preparation,02-09,06-07
+Ziha,planting,07-08,08-06
+Ziha,flowering,09-05,10-11
+Ziha,tasseling/seed filling,10-12,11-10
+Ziha,harvesting,11-11,12-10
+Ziha,land preparation,03-10,05-08
+Ziha,planting,05-09,05-28
+Ziha,flowering,07-23,08-06
+Ziha,tasseling/seed filling,08-07,09-05
+Ziha,harvesting,10-12,11-10
+Debre-Kidusan09,land preparation,01-10,07-07
+Debre-Kidusan09,planting,07-08,08-06
+Debre-Kidusan09,flowering,09-06,09-26
+Debre-Kidusan09,tasseling/seed filling,09-27,10-26
+Debre-Kidusan09,harvesting,10-27,11-10
+Debre-Kidusan09,land preparation,01-10,05-08
+Debre-Kidusan09,planting,05-09,06-08
+Debre-Kidusan09,flowering,08-22,09-05
+Debre-Kidusan09,tasseling/seed filling,09-06,09-27
+Debre-Kidusan09,harvesting,09-28,10-11
+Debre-Kidusan09,land preparation,01-10,04-24
+Debre-Kidusan09,planting,04-25,05-08
+Debre-Kidusan09,flowering,08-22,09-05
+Debre-Kidusan09,tasseling/seed filling,09-06,11-22
+Debre-Kidusan09,harvesting,11-23,12-10
+Keregna,land preparation,05-09,06-07
+Keregna,planting,06-08,06-12
+Keregna,flowering,08-22,09-05
+Keregna,tasseling/seed filling,09-16,10-11
+Keregna,harvesting,10-31,11-10
+Keregna,land preparation,03-25,04-20
+Keregna,planting,05-09,06-07
+Keregna,flowering,08-26,09-16
+Keregna,tasseling/seed filling,09-17,10-11
+Keregna,harvesting,10-31,12-10
+Estifanos,land preparation,03-10,07-07
+Estifanos,planting,07-12,08-06
+Estifanos,flowering,09-03,10-01
+Estifanos,tasseling/seed filling,10-02,10-16
+Estifanos,harvesting,10-21,12-10
+Estifanos,land preparation,03-10,05-08
+Estifanos,planting,05-09,06-12
+Estifanos,flowering,08-22,09-05
+Estifanos,tasseling/seed filling,09-12,09-27
+Estifanos,harvesting,10-11,10-31
+Estifanos,land preparation,03-10,05-08
+Estifanos,planting,05-09,06-22
+Estifanos,flowering,09-05,09-27
+Estifanos,tasseling/seed filling,09-27,10-16
+Estifanos,harvesting,11-15,12-10
+Mitad,land preparation,03-10,06-02
+Mitad,planting,06-08,07-12
+Mitad,flowering,08-22,09-05
+Mitad,tasseling/seed filling,09-16,11-11
+Mitad,harvesting,11-11,12-10
+Mitad,land preparation,12-11,05-11
+Mitad,planting,06-08,07-07
+Mitad,flowering,08-21,09-12
+Mitad,tasseling/seed filling,09-26,11-10
+Mitad,harvesting,11-12,12-09
+Ginaza,land preparation,03-10,07-08
+Ginaza,planting,07-11,07-23
+Ginaza,flowering,09-12,10-09
+Ginaza,tasseling/seed filling,10-12,10-27
+Ginaza,harvesting,11-11,12-05
+Ginaza,land preparation,03-10,05-08
+Ginaza,planting,05-09,05-28
+Ginaza,flowering,08-22,09-12
+Ginaza,tasseling/seed filling,09-21,10-11
+Ginaza,harvesting,10-27,11-10
+Anigot,land preparation,05-09,07-07
+Anigot,planting,07-12,07-28
+Anigot,flowering,09-12,10-11
+Anigot,tasseling/seed filling,10-12,11-10
+Anigot,harvesting,11-11,12-10
+Anigot,land preparation,03-10,05-08
+Anigot,planting,05-09,01-19
+Anigot,flowering,08-23,08-22
+Anigot,tasseling/seed filling,08-27,09-28
+Anigot,harvesting,10-27,11-10
+Anigot,land preparation,04-09,06-07
+Anigot,planting,06-08,07-07
+Anigot,flowering,08-22,09-12
+Anigot,tasseling/seed filling,09-27,10-26
+Anigot,harvesting,11-11,12-10
+Goshedur-033-,land preparation,11-16,05-08
+Goshedur-033-,planting,05-10,07-07
+Goshedur-033-,flowering,09-12,09-27
+Goshedur-033-,tasseling/seed filling,09-28,11-10
+Goshedur-033-,harvesting,11-25,01-10
+Goshedur-033-,land preparation,04-08,04-23
+Goshedur-033-,planting,05-23,06-22
+Goshedur-033-,flowering,08-07,09-05
+Goshedur-033-,tasseling/seed filling,09-26,10-26
+Goshedur-033-,harvesting,10-30,01-10
+Lul-025-,land preparation,03-24,07-07
+Lul-025-,planting,07-12,07-21
+Lul-025-,flowering,09-27,10-11
+Lul-025-,tasseling/seed filling,10-26,11-16
+Lul-025-,harvesting,11-25,12-25
+Lul-025-,land preparation,03-25,06-07
+Lul-025-,planting,06-08,07-07
+Lul-025-,flowering,08-21,08-05
+Lul-025-,tasseling/seed filling,09-26,10-11
+Lul-025-,harvesting,10-12,11-10
+Lul-025-,land preparation,06-08,06-22
+Lul-025-,planting,06-24,07-12
+Lul-025-,flowering,08-21,09-05
+Lul-025-,tasseling/seed filling,09-12,09-27
+Lul-025-,harvesting,10-02,10-12
+Yetefet-021-,land preparation,03-10,06-22
+Yetefet-021-,planting,07-08,07-27
+Yetefet-021-,flowering,09-17,09-28
+Yetefet-021-,tasseling/seed filling,10-12,11-10
+Yetefet-021-,harvesting,11-23,12-25
+Yetefet-021-,land preparation,06-23,04-08
+Yetefet-021-,planting,04-23,05-13
+Yetefet-021-,flowering,08-21,09-11
+Yetefet-021-,tasseling/seed filling,09-26,10-26
+Yetefet-021-,harvesting,11-08,11-30
+Yetefet-021-,land preparation,03-10,05-08
+Yetefet-021-,planting,05-22,07-07
+Yetefet-021-,flowering,08-07,09-11
+Yetefet-021-,tasseling/seed filling,09-26,10-16
+Yetefet-021-,harvesting,11-30,01-10
+HagereSelam-016-,land preparation,04-09,07-07
+HagereSelam-016-,planting,07-08,07-27
+HagereSelam-016-,flowering,09-11,09-26
+HagereSelam-016-,tasseling/seed filling,10-25,11-09
+HagereSelam-016-,harvesting,11-25,12-25
+HagereSelam-016-,land preparation,01-24,04-08
+HagereSelam-016-,planting,04-09,06-07
+HagereSelam-016-,flowering,08-21,09-25
+HagereSelam-016-,tasseling/seed filling,10-25,11-09
+HagereSelam-016-,harvesting,11-10,11-21
+HagereSelam-016-,land preparation,04-23,06-22
+HagereSelam-016-,planting,06-23,07-07
+HagereSelam-016-,flowering,09-11,10-10
+HagereSelam-016-,tasseling/seed filling,10-11,11-09
+HagereSelam-016-,harvesting,11-10,11-24
+Abrekuy,land preparation,03-10,07-07
+Abrekuy,planting,07-12,08-06
+Abrekuy,flowering,09-11,10-05
+Abrekuy,tasseling/seed filling,10-11,11-09
+Abrekuy,harvesting,11-10,12-14
+Abrekuy,land preparation,03-24,04-23
+Abrekuy,planting,04-24,05-28
+Abrekuy,flowering,09-11,09-30
+Abrekuy,tasseling/seed filling,10-11,11-09
+Abrekuy,harvesting,12-10,12-24
+Abrekuy,land preparation,03-10,06-27
+Abrekuy,planting,07-07,07-17
+Abrekuy,flowering,09-11,09-20
+Abrekuy,tasseling/seed filling,09-25,10-25
+Abrekuy,harvesting,11-24,12-09
+Zobar-Yikuanda-028-,land preparation,05-09,07-07
+Zobar-Yikuanda-028-,planting,07-08,08-06
+Zobar-Yikuanda-028-,flowering,09-06,09-27
+Zobar-Yikuanda-028-,tasseling/seed filling,09-30,10-11
+Zobar-Yikuanda-028-,harvesting,10-20,11-24
+Zobar-Yikuanda-028-,land preparation,01-10,04-08
+Zobar-Yikuanda-028-,planting,04-09,06-07
+Zobar-Yikuanda-028-,flowering,08-07,09-25
+Zobar-Yikuanda-028-,tasseling/seed filling,09-27,11-09
+Zobar-Yikuanda-028-,harvesting,11-24,12-09
+Zobar-Yikuanda-028-,land preparation,06-08,07-07
+Zobar-Yikuanda-028-,planting,07-08,07-22
+Zobar-Yikuanda-028-,flowering,08-16,09-05
+Zobar-Yikuanda-028-,tasseling/seed filling,09-06,09-20
+Zobar-Yikuanda-028-,harvesting,09-27,10-15
+Mozen,land preparation,04-18,07-12
+Mozen,planting,07-17,08-09
+Mozen,flowering,09-27,10-21
+Mozen,tasseling/seed filling,10-22,11-10
+Mozen,harvesting,11-30,01-24
+Mozen,land preparation,03-29,04-18
+Mozen,planting,04-23,05-18
+Mozen,flowering,07-22,08-26
+Mozen,tasseling/seed filling,08-27,10-11
+Mozen,harvesting,10-21,10-31
+Mozen,land preparation,04-18,07-02
+Mozen,planting,07-07,07-12
+Mozen,flowering,08-16,09-05
+Mozen,tasseling/seed filling,09-06,10-10
+Mozen,harvesting,10-25,11-09
+Debremawie-017-,land preparation,01-10,05-08
+Debremawie-017-,planting,05-09,06-22
+Debremawie-017-,flowering,08-07,09-05
+Debremawie-017-,tasseling/seed filling,09-25,11-09
+Debremawie-017-,harvesting,11-24,12-24
+Debremawie-017-,land preparation,01-10,06-08
+Debremawie-017-,planting,06-08,07-07
+Debremawie-017-,flowering,08-07,09-25
+Debremawie-017-,tasseling/seed filling,09-26,10-25
+Debremawie-017-,harvesting,10-26,11-09
+HagereGenet-010-,land preparation,10-12,07-08
+HagereGenet-010-,planting,07-17,08-06
+HagereGenet-010-,flowering,09-06,09-26
+HagereGenet-010-,tasseling/seed filling,10-11,10-26
+HagereGenet-010-,harvesting,11-04,12-09
+HagereGenet-010-,land preparation,03-10,04-09
+HagereGenet-010-,planting,04-09,05-08
+HagereGenet-010-,flowering,08-21,09-26
+HagereGenet-010-,tasseling/seed filling,10-11,11-09
+HagereGenet-010-,harvesting,11-21,11-30
+HagereGenet-010-,land preparation,05-09,06-23
+HagereGenet-010-,planting,07-08,07-19
+HagereGenet-010-,flowering,08-21,09-05
+HagereGenet-010-,tasseling/seed filling,09-06,09-26
+HagereGenet-010-,harvesting,10-10,10-26
+Worya-Meskel-032-,land preparation,01-10,07-07
+Worya-Meskel-032-,planting,07-08,08-06
+Worya-Meskel-032-,flowering,09-06,09-20
+Worya-Meskel-032-,tasseling/seed filling,10-11,11-09
+Worya-Meskel-032-,harvesting,11-10,12-24
+Worya-Meskel-032-,land preparation,01-09,06-22
+Worya-Meskel-032-,planting,06-23,07-07
+Worya-Meskel-032-,flowering,08-21,09-05
+Worya-Meskel-032-,tasseling/seed filling,09-06,10-10
+Worya-Meskel-032-,harvesting,10-11,11-09
+Worya-Meskel-032-,land preparation,03-10,06-22
+Worya-Meskel-032-,planting,06-23,07-17
+Worya-Meskel-032-,flowering,08-21,09-05
+Worya-Meskel-032-,tasseling/seed filling,09-06,09-20
+Worya-Meskel-032-,harvesting,09-21,10-10
+Selamaya,land preparation,10-11,05-08
+Selamaya,planting,05-09,06-22
+Selamaya,flowering,08-21,09-05
+Selamaya,tasseling/seed filling,09-26,10-16
+Selamaya,harvesting,12-10,11-20
+Selamaya,land preparation,10-12,06-02
+Selamaya,planting,06-08,07-03
+Selamaya,flowering,08-21,09-16
+Selamaya,tasseling/seed filling,09-27,10-11
+Selamaya,harvesting,10-29,11-15
+Selamaya,land preparation,03-10,05-08
+Selamaya,planting,06-08,07-07
+Selamaya,flowering,08-21,09-05
+Selamaya,tasseling/seed filling,09-16,10-11
+Selamaya,harvesting,10-23,11-10
+Yedwuha,land preparation,04-09,07-07
+Yedwuha,planting,07-14,08-01
+Yedwuha,flowering,09-12,10-11
+Yedwuha,tasseling/seed filling,10-12,11-10
+Yedwuha,harvesting,11-11,01-09
+Yedwuha,land preparation,03-14,04-23
+Yedwuha,planting,04-24,05-23
+Yedwuha,flowering,09-05,09-26
+Yedwuha,tasseling/seed filling,09-27,11-10
+Yedwuha,harvesting,11-26,12-26
+Yedwuha,land preparation,04-09,07-07
+Yedwuha,planting,08-26,09-05
+Yedwuha,flowering,10-26,11-25
+Yedwuha,tasseling/seed filling,11-26,12-25
+Yedwuha,harvesting,01-10,02-08
+Melabesh-015-,land preparation,03-10,07-07
+Melabesh-015-,planting,07-08,08-06
+Melabesh-015-,flowering,09-12,10-11
+Melabesh-015-,tasseling/seed filling,10-12,11-25
+Melabesh-015-,harvesting,11-26,01-09
+Melabesh-015-,land preparation,03-10,04-08
+Melabesh-015-,planting,04-09,06-22
+Melabesh-015-,flowering,08-07,09-12
+Melabesh-015-,tasseling/seed filling,09-13,10-26
+Melabesh-015-,harvesting,11-11,12-10
+Melabesh-015-,land preparation,03-10,06-08
+Melabesh-015-,planting,06-22,07-17
+Melabesh-015-,flowering,08-21,09-05
+Melabesh-015-,tasseling/seed filling,09-12,10-11
+Melabesh-015-,harvesting,10-26,11-25
+Wobo,land preparation,04-09,07-07
+Wobo,planting,07-14,08-06
+Wobo,flowering,09-12,09-27
+Wobo,tasseling/seed filling,09-28,10-11
+Wobo,harvesting,10-26,12-25
+Wobo,land preparation,04-09,04-23
+Wobo,planting,04-24,06-22
+Wobo,flowering,09-05,10-11
+Wobo,tasseling/seed filling,10-12,11-10
+Wobo,harvesting,11-25,01-09
+Wobo,land preparation,04-09,06-07
+Wobo,planting,06-20,07-07
+Wobo,flowering,08-22,09-05
+Wobo,tasseling/seed filling,09-06,09-26
+Wobo,harvesting,10-12,10-26
+Adisalem-020-,land preparation,03-10,07-07
+Adisalem-020-,planting,07-12,08-04
+Adisalem-020-,flowering,09-26,10-11
+Adisalem-020-,tasseling/seed filling,10-16,11-10
+Adisalem-020-,harvesting,11-30,12-30
+Adisalem-020-,land preparation,03-10,06-07
+Adisalem-020-,planting,06-22,07-12
+Adisalem-020-,flowering,08-21,09-16
+Adisalem-020-,tasseling/seed filling,09-26,10-21
+Adisalem-020-,harvesting,11-11,12-10
+Adisalem-020-,land preparation,06-08,06-27
+Adisalem-020-,planting,07-08,07-27
+Adisalem-020-,flowering,08-21,09-05
+Adisalem-020-,tasseling/seed filling,09-06,09-16
+Adisalem-020-,harvesting,09-21,10-16
+Debre-Genet-018-,land preparation,03-10,07-07
+Debre-Genet-018-,planting,07-12,07-22
+Debre-Genet-018-,flowering,09-26,10-11
+Debre-Genet-018-,tasseling/seed filling,10-12,11-10
+Debre-Genet-018-,harvesting,11-30,12-30
+Debre-Genet-018-,land preparation,03-10,05-23
+Debre-Genet-018-,planting,05-24,07-07
+Debre-Genet-018-,flowering,08-21,09-05
+Debre-Genet-018-,tasseling/seed filling,09-12,10-11
+Debre-Genet-018-,harvesting,10-26,12-10
+Debre-Genet-018-,land preparation,03-10,05-23
+Debre-Genet-018-,planting,05-23,06-22
+Debre-Genet-018-,flowering,08-07,09-05
+Debre-Genet-018-,tasseling/seed filling,09-26,10-11
+Debre-Genet-018-,harvesting,10-21,11-10
+Mergech,land preparation,03-10,07-07
+Mergech,planting,07-12,08-06
+Mergech,flowering,09-06,10-11
+Mergech,tasseling/seed filling,10-27,11-26
+Mergech,harvesting,12-11,01-10
+Mergech,land preparation,03-25,04-08
+Mergech,planting,04-09,05-08
+Mergech,flowering,09-06,09-27
+Mergech,tasseling/seed filling,10-12,10-26
+Mergech,harvesting,11-26,12-11
+Mergech,land preparation,03-10,07-11
+Mergech,planting,08-31,09-11
+Mergech,flowering,11-26,12-26
+Mergech,tasseling/seed filling,12-27,01-25
+Mergech,harvesting,02-08,02-16
+Abaselima,land preparation,02-26,07-05
+Abaselima,planting,07-09,08-11
+Abaselima,flowering,09-06,09-27
+Abaselima,tasseling/seed filling,10-12,11-08
+Abaselima,harvesting,11-11,12-10
+Abaselima,land preparation,03-24,04-08
+Abaselima,planting,04-09,06-07
+Abaselima,flowering,09-06,09-27
+Abaselima,tasseling/seed filling,09-28,10-28
+Abaselima,harvesting,11-25,01-10
+Abaselima,land preparation,02-24,06-07
+Abaselima,planting,06-27,07-05
+Abaselima,flowering,09-05,09-16
+Abaselima,tasseling/seed filling,09-07,10-16
+Abaselima,harvesting,10-30,11-25
+Felegehiwot-022-,land preparation,01-10,05-08
+Felegehiwot-022-,planting,05-09,06-22
+Felegehiwot-022-,flowering,08-21,09-25
+Felegehiwot-022-,tasseling/seed filling,10-25,11-29
+Felegehiwot-022-,harvesting,12-04,01-08
+Felegehiwot-022-,land preparation,02-08,03-09
+Felegehiwot-022-,planting,05-23,06-27
+Felegehiwot-022-,flowering,08-31,09-30
+Felegehiwot-022-,tasseling/seed filling,10-15,11-09
+Felegehiwot-022-,harvesting,11-10,11-29
+Agid,land preparation,03-10,06-07
+Agid,planting,06-08,06-23
+Agid,flowering,08-22,09-05
+Agid,tasseling/seed filling,09-12,09-27
+Agid,harvesting,10-12,11-10
+Agid,land preparation,03-10,05-22
+Agid,planting,06-23,06-30
+Agid,flowering,09-27,10-11
+Agid,tasseling/seed filling,10-12,10-26
+Agid,harvesting,11-11,12-10
+Agid,land preparation,05-09,06-07
+Agid,planting,06-08,07-07
+Agid,flowering,09-27,10-11
+Agid,tasseling/seed filling,10-12,10-27
+Agid,harvesting,11-11,12-20
+Serawudi,land preparation,03-10,07-07
+Serawudi,planting,07-08,07-23
+Serawudi,flowering,09-04,09-15
+Serawudi,tasseling/seed filling,10-10,10-15
+Serawudi,harvesting,10-30,11-09
+Serawudi,land preparation,03-09,04-08
+Serawudi,planting,05-09,05-24
+Serawudi,flowering,07-15,08-06
+Serawudi,tasseling/seed filling,08-26,09-26
+Serawudi,harvesting,10-11,11-09
+Serawudi,land preparation,10-11,03-20
+Serawudi,planting,03-21,06-08
+Serawudi,flowering,08-22,09-15
+Serawudi,tasseling/seed filling,09-26,10-25
+Serawudi,harvesting,10-26,11-14
+Tsae,land preparation,03-10,06-22
+Tsae,planting,07-03,07-22
+Tsae,flowering,09-02,09-10
+Tsae,tasseling/seed filling,09-12,09-27
+Tsae,harvesting,10-12,10-26
+Tsae,land preparation,03-10,05-13
+Tsae,planting,05-23,06-12
+Tsae,flowering,08-07,08-21
+Tsae,tasseling/seed filling,09-06,09-26
+Tsae,harvesting,10-07,10-16
+Tsae,land preparation,03-10,05-13
+Tsae,planting,05-23,06-12
+Tsae,flowering,08-07,08-21
+Tsae,tasseling/seed filling,09-06,09-26
+Tsae,harvesting,11-08,11-25
+Misema,land preparation,03-11,06-28
+Misema,planting,07-02,07-22
+Misema,flowering,09-08,09-26
+Misema,tasseling/seed filling,09-29,10-11
+Misema,harvesting,10-21,11-10
+Misema,land preparation,01-09,06-23
+Misema,planting,06-27,07-22
+Misema,flowering,08-22,09-21
+Misema,tasseling/seed filling,09-28,10-12
+Misema,harvesting,10-21,11-20
+Misema,land preparation,01-09,03-24
+Misema,planting,04-03,04-08
+Misema,flowering,08-07,09-08
+Misema,tasseling/seed filling,09-21,10-01
+Misema,harvesting,10-12,11-10
+May-Nebri,land preparation,01-13,06-30
+May-Nebri,planting,07-02,07-22
+May-Nebri,flowering,08-21,09-05
+May-Nebri,tasseling/seed filling,09-06,09-21
+May-Nebri,harvesting,10-01,11-10
+May-Nebri,land preparation,01-13,07-02
+May-Nebri,planting,07-03,07-13
+May-Nebri,flowering,08-21,09-06
+May-Nebri,tasseling/seed filling,09-21,09-26
+May-Nebri,harvesting,10-12,11-11
+May-Nebri,land preparation,01-13,03-24
+May-Nebri,planting,03-25,04-23
+May-Nebri,flowering,08-21,09-03
+May-Nebri,tasseling/seed filling,09-06,09-26
+May-Nebri,harvesting,10-26,11-25
+Arena,land preparation,05-24,06-27
+Arena,planting,07-12,07-27
+Arena,flowering,08-23,09-16
+Arena,tasseling/seed filling,09-18,10-08
+Arena,harvesting,10-11,11-06
+Arena,land preparation,03-10,05-08
+Arena,planting,05-09,05-18
+Arena,flowering,08-16,08-22
+Arena,tasseling/seed filling,08-30,10-01
+Arena,harvesting,10-06,10-11
+Arena,land preparation,03-10,05-08
+Arena,planting,05-09,05-18
+Arena,flowering,08-16,08-22
+Arena,tasseling/seed filling,08-30,09-16
+Arena,harvesting,11-11,12-05
+May-Chekemte,land preparation,03-10,06-22
+May-Chekemte,planting,06-25,07-27
+May-Chekemte,flowering,09-06,09-21
+May-Chekemte,tasseling/seed filling,09-23,10-11
+May-Chekemte,harvesting,10-21,11-11
+May-Chekemte,land preparation,03-10,05-13
+May-Chekemte,planting,05-15,05-28
+May-Chekemte,flowering,08-21,09-06
+May-Chekemte,tasseling/seed filling,09-16,10-16
+May-Chekemte,harvesting,11-11,11-25
+May-Chekemte,land preparation,03-10,06-08
+May-Chekemte,planting,06-22,07-15
+May-Chekemte,flowering,08-26,09-16
+May-Chekemte,tasseling/seed filling,09-18,10-11
+May-Chekemte,harvesting,10-25,11-11
+Woynye,land preparation,04-23,07-05
+Woynye,planting,07-13,08-01
+Woynye,flowering,09-06,09-27
+Woynye,tasseling/seed filling,09-28,11-10
+Woynye,harvesting,11-25,01-09
+Woynye,land preparation,03-24,05-08
+Woynye,planting,05-09,05-23
+Woynye,flowering,08-21,09-27
+Woynye,tasseling/seed filling,09-28,11-10
+Woynye,harvesting,12-10,12-22
+Woynye,land preparation,04-23,07-03
+Woynye,planting,07-04,07-05
+Woynye,flowering,08-21,09-05
+Woynye,tasseling/seed filling,09-12,10-11
+Woynye,harvesting,10-31,11-10
+Woynye,land preparation,04-23,07-23
+Woynye,planting,08-21,09-05
+Woynye,flowering,11-22,12-10
+Woynye,tasseling/seed filling,12-11,01-09
+Woynye,harvesting,01-24,02-08
+Birkutea,land preparation,03-10,05-08
+Birkutea,planting,05-09,06-07
+Birkutea,flowering,07-19,08-06
+Birkutea,tasseling/seed filling,08-07,09-05
+Birkutea,harvesting,10-12,11-10
+Birkutea,land preparation,03-24,07-30
+Birkutea,planting,07-08,07-23
+Birkutea,flowering,09-05,10-11
+Birkutea,tasseling/seed filling,09-27,10-11
+Birkutea,harvesting,10-26,12-10
+Birkutea,land preparation,03-10,05-23
+Birkutea,planting,05-23,06-07
+Birkutea,flowering,09-05,10-11
+Birkutea,tasseling/seed filling,09-27,10-10
+Birkutea,harvesting,10-16,12-10
+Wariba,land preparation,02-10,07-02
+Wariba,planting,07-05,07-19
+Wariba,flowering,09-01,10-03
+Wariba,tasseling/seed filling,10-05,10-26
+Wariba,harvesting,11-01,11-16
+Wariba,land preparation,03-10,05-08
+Wariba,planting,05-09,06-02
+Wariba,flowering,08-07,09-05
+Wariba,tasseling/seed filling,09-06,09-16
+Wariba,harvesting,10-11,11-10
+Wariba,land preparation,10-12,05-28
+Wariba,planting,06-02,07-14
+Wariba,flowering,08-21,09-16
+Wariba,tasseling/seed filling,09-17,10-06
+Wariba,harvesting,10-09,10-21
+Wonberoch,land preparation,12-25,06-13
+Wonberoch,planting,06-22,07-12
+Wonberoch,flowering,08-22,09-11
+Wonberoch,tasseling/seed filling,09-12,11-10
+Wonberoch,harvesting,11-11,12-10
+Wonberoch,land preparation,10-12,06-07
+Wonberoch,planting,06-08,06-23
+Wonberoch,flowering,08-07,09-11
+Wonberoch,tasseling/seed filling,09-12,10-01
+Wonberoch,harvesting,10-12,10-26
+Wonberoch,land preparation,02-10,06-08
+Wonberoch,planting,06-08,06-22
+Wonberoch,flowering,08-07,09-11
+Wonberoch,tasseling/seed filling,09-12,10-11
+Wonberoch,harvesting,10-12,10-26
+Worgaja wagi,land preparation,12-11,05-08
+Worgaja wagi,planting,06-01,07-23
+Worgaja wagi,flowering,09-06,09-16
+Worgaja wagi,tasseling/seed filling,09-17,10-11
+Worgaja wagi,harvesting,10-12,12-10
+Worgaja wagi,land preparation,12-10,05-08
+Worgaja wagi,planting,05-09,06-07
+Worgaja wagi,flowering,07-23,08-06
+Worgaja wagi,tasseling/seed filling,08-07,08-22
+Worgaja wagi,harvesting,10-27,11-10
+Worgaja wagi,land preparation,06-01,06-07
+Worgaja wagi,planting,06-08,07-07
+Worgaja wagi,flowering,07-23,08-06
+Worgaja wagi,tasseling/seed filling,08-21,09-11
+Worgaja wagi,harvesting,09-27,10-12
+Burkoche,land preparation,12-10,05-08
+Burkoche,planting,07-05,08-06
+Burkoche,flowering,08-22,09-11
+Burkoche,tasseling/seed filling,09-12,09-27
+Burkoche,harvesting,09-28,11-10
+Burkoche,land preparation,12-10,05-08
+Burkoche,planting,05-09,06-22
+Burkoche,flowering,08-21,09-05
+Burkoche,tasseling/seed filling,09-12,10-16
+Burkoche,harvesting,11-11,12-26
+Suha,land preparation,04-09,07-12
+Suha,planting,07-17,08-06
+Suha,flowering,09-27,11-10
+Suha,tasseling/seed filling,11-12,11-23
+Suha,harvesting,12-10,01-10
+Suha,land preparation,04-09,04-23
+Suha,planting,04-24,05-23
+Suha,flowering,09-12,09-27
+Suha,tasseling/seed filling,09-28,11-23
+Suha,harvesting,12-01,12-26
+Suha,land preparation,04-09,04-13
+Suha,planting,08-20,09-05
+Suha,flowering,11-17,12-10
+Suha,tasseling/seed filling,12-12,01-10
+Suha,harvesting,01-23,02-10
+Embacheko Gunaguna,land preparation,10-12,05-08
+Embacheko Gunaguna,planting,06-23,07-07
+Embacheko Gunaguna,flowering,08-21,09-05
+Embacheko Gunaguna,tasseling/seed filling,09-06,10-11
+Embacheko Gunaguna,harvesting,10-26,11-25
+Embacheko Gunaguna,land preparation,11-19,04-23
+Embacheko Gunaguna,planting,06-07,06-07
+Embacheko Gunaguna,flowering,08-21,09-06
+Embacheko Gunaguna,tasseling/seed filling,09-16,10-11
+Embacheko Gunaguna,harvesting,10-12,11-10
+Zihon-Huha-014-,land preparation,04-09,07-07
+Zihon-Huha-014-,planting,07-08,07-30
+Zihon-Huha-014-,flowering,09-12,10-11
+Zihon-Huha-014-,tasseling/seed filling,10-26,11-10
+Zihon-Huha-014-,harvesting,11-25,01-10
+Zihon-Huha-014-,land preparation,04-09,06-07
+Zihon-Huha-014-,planting,06-12,07-07
+Zihon-Huha-014-,flowering,08-21,09-06
+Zihon-Huha-014-,tasseling/seed filling,09-26,10-11
+Zihon-Huha-014-,harvesting,10-16,11-20
+Zihon-Huha-014-,land preparation,04-09,06-07
+Zihon-Huha-014-,planting,06-07,07-12
+Zihon-Huha-014-,flowering,09-06,09-28
+Zihon-Huha-014-,tasseling/seed filling,09-29,10-12
+Zihon-Huha-014-,harvesting,10-21,10-30
+Dembeza-019-Amba Lay,land preparation,03-10,07-07
+Dembeza-019-Amba Lay,planting,07-08,07-22
+Dembeza-019-Amba Lay,flowering,09-06,09-27
+Dembeza-019-Amba Lay,tasseling/seed filling,10-12,10-26
+Dembeza-019-Amba Lay,harvesting,11-11,12-29
+Dembeza-019-Amba Lay,land preparation,02-10,07-22
+Dembeza-019-Amba Lay,planting,06-23,07-07
+Dembeza-019-Amba Lay,flowering,08-21,09-05
+Dembeza-019-Amba Lay,tasseling/seed filling,09-21,10-11
+Dembeza-019-Amba Lay,harvesting,10-21,11-10
+Dembeza-019-Amba Lay,land preparation,06-08,07-07
+Dembeza-019-Amba Lay,planting,07-12,07-22
+Dembeza-019-Amba Lay,flowering,08-11,08-22
+Dembeza-019-Amba Lay,tasseling/seed filling,08-23,09-21
+Dembeza-019-Amba Lay,harvesting,09-27,10-11
+Berlay-034-,land preparation,01-10,07-07
+Berlay-034-,planting,07-08,07-19
+Berlay-034-,flowering,09-12,10-11
+Berlay-034-,tasseling/seed filling,10-12,11-10
+Berlay-034-,harvesting,11-25,12-10
+Berlay-034-,land preparation,01-10,05-08
+Berlay-034-,planting,05-28,07-07
+Berlay-034-,flowering,09-05,09-27
+Berlay-034-,tasseling/seed filling,10-11,11-10
+Berlay-034-,harvesting,11-11,12-10
+Berlay-034-,land preparation,03-10,04-08
+Berlay-034-,planting,07-08,07-22
+Berlay-034-,flowering,08-22,09-10
+Berlay-034-,tasseling/seed filling,09-11,09-27
+Berlay-034-,harvesting,09-27,10-11
+Yeju,land preparation,04-09,08-12
+Yeju,planting,08-08,08-06
+Yeju,flowering,09-02,09-27
+Yeju,tasseling/seed filling,09-12,11-26
+Yeju,harvesting,10-26,12-10
+Yeju,land preparation,04-09,04-23
+Yeju,planting,04-24,05-23
+Yeju,flowering,08-07,09-05
+Yeju,tasseling/seed filling,09-12,10-25
+Yeju,harvesting,11-24,12-14
+Worego,land preparation,04-09,08-07
+Worego,planting,07-08,07-27
+Worego,flowering,09-26,10-10
+Worego,tasseling/seed filling,10-15,11-14
+Worego,harvesting,11-24,12-29
+Worego,land preparation,04-09,07-24
+Worego,planting,08-21,09-10
+Worego,flowering,10-25,11-09
+Worego,tasseling/seed filling,11-10,12-19
+Worego,harvesting,01-09,01-23
+Selelkula,land preparation,04-09,07-07
+Selelkula,planting,07-12,08-06
+Selelkula,flowering,09-11,10-11
+Selelkula,tasseling/seed filling,10-13,11-09
+Selelkula,harvesting,11-12,01-08
+Selelkula,land preparation,04-09,08-06
+Selelkula,planting,08-07,10-10
+Selelkula,flowering,10-11,11-09
+Selelkula,tasseling/seed filling,11-12,12-09
+Selelkula,harvesting,12-24,01-23
+Selelkula,land preparation,03-24,04-23
+Selelkula,planting,04-24,05-23
+Selelkula,flowering,09-11,11-10
+Selelkula,tasseling/seed filling,10-11,11-24
+Selelkula,harvesting,11-25,12-09
+Ledy,land preparation,04-09,07-07
+Ledy,planting,07-12,08-06
+Ledy,flowering,09-06,10-10
+Ledy,tasseling/seed filling,10-11,11-09
+Ledy,harvesting,11-19,01-08
+Ledy,land preparation,03-10,04-08
+Ledy,planting,04-23,05-23
+Ledy,flowering,09-11,10-10
+Ledy,tasseling/seed filling,10-11,11-21
+Ledy,harvesting,11-24,12-14
+Ledy,land preparation,04-09,06-07
+Ledy,planting,06-17,07-07
+Ledy,flowering,08-26,09-11
+Ledy,tasseling/seed filling,09-25,10-10
+Ledy,harvesting,10-25,12-09
+Gebsit,land preparation,04-09,07-07
+Gebsit,planting,07-12,08-02
+Gebsit,flowering,09-06,10-11
+Gebsit,tasseling/seed filling,10-12,11-25
+Gebsit,harvesting,12-10,12-30
+Gebsit,land preparation,04-09,05-08
+Gebsit,planting,05-09,05-24
+Gebsit,flowering,08-21,09-27
+Gebsit,tasseling/seed filling,10-26,11-25
+Gebsit,harvesting,12-10,12-16
+Gebsit,land preparation,04-09,07-07
+Gebsit,planting,07-11,07-15
+Gebsit,flowering,08-16,09-05
+Gebsit,tasseling/seed filling,09-27,10-11
+Gebsit,harvesting,11-11,12-10
+Shunge,land preparation,10-12,05-09
+Shunge,planting,06-08,06-22
+Shunge,flowering,09-06,09-26
+Shunge,tasseling/seed filling,09-27,10-26
+Shunge,harvesting,10-31,11-20
+Shunge,land preparation,06-08,06-09
+Shunge,planting,06-08,07-07
+Shunge,flowering,08-07,09-05
+Shunge,tasseling/seed filling,09-12,10-11
+Shunge,harvesting,10-21,11-10
+Ansheb,land preparation,03-19,07-07
+Ansheb,planting,07-08,07-27
+Ansheb,flowering,08-05,09-26
+Ansheb,tasseling/seed filling,09-28,10-16
+Ansheb,harvesting,10-31,12-25
+Ansheb,land preparation,03-10,05-08
+Ansheb,planting,05-09,06-07
+Ansheb,flowering,08-21,09-26
+Ansheb,tasseling/seed filling,09-27,10-26
+Ansheb,harvesting,11-25,12-10
+Ansheb,land preparation,03-10,06-23
+Ansheb,planting,06-24,07-07
+Ansheb,flowering,08-21,09-05
+Ansheb,tasseling/seed filling,09-06,09-27
+Ansheb,harvesting,09-29,10-21
+Gedayasu,land preparation,04-09,07-07
+Gedayasu,planting,07-12,08-01
+Gedayasu,flowering,09-12,09-27
+Gedayasu,tasseling/seed filling,10-26,11-10
+Gedayasu,harvesting,11-20,01-09
+Gedayasu,land preparation,04-09,04-23
+Gedayasu,planting,04-24,05-07
+Gedayasu,flowering,08-07,09-05
+Gedayasu,tasseling/seed filling,09-26,10-26
+Gedayasu,harvesting,11-22,12-20
+Gedayasu,land preparation,04-09,06-22
+Gedayasu,planting,06-27,07-12
+Gedayasu,flowering,08-21,09-05
+Gedayasu,tasseling/seed filling,09-12,10-11
+Gedayasu,harvesting,10-25,11-10
+Filatako,land preparation,01-24,07-07
+Filatako,planting,07-17,08-06
+Filatako,flowering,08-31,09-16
+Filatako,tasseling/seed filling,09-17,10-11
+Filatako,harvesting,10-25,11-25
+Filatako,land preparation,05-08,05-06
+Filatako,planting,05-09,06-07
+Filatako,flowering,08-07,09-05
+Filatako,tasseling/seed filling,09-25,10-11
+Filatako,harvesting,10-26,11-10
+Filatako,land preparation,04-09,05-08
+Filatako,planting,05-09,06-07
+Filatako,flowering,08-07,10-10
+Filatako,tasseling/seed filling,10-11,11-10
+Filatako,harvesting,11-11,12-10
+Abarwuha,land preparation,01-10,07-07
+Abarwuha,planting,07-08,07-27
+Abarwuha,flowering,09-05,09-26
+Abarwuha,tasseling/seed filling,09-27,10-21
+Abarwuha,harvesting,10-26,11-25
+Abarwuha,land preparation,01-10,04-23
+Abarwuha,planting,05-09,01-07
+Abarwuha,flowering,08-21,09-05
+Abarwuha,tasseling/seed filling,09-10,10-11
+Abarwuha,harvesting,10-12,11-10
+Abarwuha,land preparation,01-10,04-23
+Abarwuha,planting,05-09,06-07
+Abarwuha,flowering,07-08,08-06
+Abarwuha,tasseling/seed filling,08-07,10-11
+Abarwuha,harvesting,10-12,12-10
+Jiman Deregeha,land preparation,10-12,07-04
+Jiman Deregeha,planting,07-08,07-19
+Jiman Deregeha,flowering,08-22,09-15
+Jiman Deregeha,tasseling/seed filling,09-27,10-11
+Jiman Deregeha,harvesting,10-20,11-22
+Jiman Deregeha,land preparation,12-11,06-05
+Jiman Deregeha,planting,06-08,06-23
+Jiman Deregeha,flowering,08-07,08-22
+Jiman Deregeha,tasseling/seed filling,09-12,09-27
+Jiman Deregeha,harvesting,10-04,10-26
+Derit,land preparation,03-10,07-11
+Derit,planting,07-27,08-21
+Derit,flowering,09-06,09-27
+Derit,tasseling/seed filling,10-09,10-21
+Derit,harvesting,10-28,11-17
+Derit,land preparation,04-09,05-23
+Derit,planting,05-09,06-12
+Derit,flowering,08-21,09-05
+Derit,tasseling/seed filling,09-12,10-16
+Derit,harvesting,11-10,11-25
+Derit,land preparation,03-10,05-09
+Derit,planting,05-09,06-07
+Derit,flowering,08-07,09-05
+Derit,tasseling/seed filling,09-26,11-10
+Derit,harvesting,11-11,12-25
